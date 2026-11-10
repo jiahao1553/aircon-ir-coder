@@ -1,9 +1,9 @@
-import { Studio } from "@/components/studio";
+import { Guide } from "@/components/guide/guide";
 
 export default function Home() {
   return (
     <main>
-      <Studio />
+      <Guide />
     </main>
   );
 }

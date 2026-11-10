@@ -1,5 +1,5 @@
 {
-  "name": "msxy-fp-ir",
+  "name": "aircon-ir-coder",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "next build --turbopack",
     "start": "next start --port 3847",
     "lint": "eslint",
-    "test": "tsx --test lib/codec.test.ts"
+    "test": "tsx --test 'lib/**/*.test.ts'"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",

@@ -1,36 +1,81 @@
-# MSXY-FP IR studio
+# Aircon IR coder
 
-Decode and build Broadlink infrared codes for the Mitsubishi Electric MSXY-FP10VG, MSXY-FP13VG, and MSXY-FP18VG.
-
-The supplied SmartIR table is a set of learned Broadlink packets. Each packet carries the same 18-byte Mitsubishi frame twice. This app reads that frame and can generate one for cool, dry, and fan-only, from 16°C to 31°C, at quiet, auto, low, mid, high, or highest fan.
+A static web app and TypeScript library that generates air-conditioner IR codes from the protocol rather than from learned buttons. Pick the aircon's protocol, set the remote's mode, fan, vane and temperature, then copy the code to a Flipper Zero or your blaster, or download a [SmartIR](https://github.com/litinoveweedle/SmartIR) climate file for a SmartIR controller.
 
 ## Run
 
 ```bash
 npm install
-npm run dev
+npm run dev      # http://localhost:3847
+npm test         # every protocol, transport and the SmartIR builder
+npm run lint
+npm run build    # static export to out/
 ```
 
-The dev server listens on port 3847. `npm test` checks the generator against every code in `data/msxy-fp.json`.
+## Using the app
 
-## Frame
+1. **Protocol.** Choose the protocol from the dropdown, or turn the knob and use the arrows. Each protocol lists only the modes, fans, vane positions and extras its remote really has. Unsupported controls are disabled.
+2. **Remote.** Set power, mode, fan, temperature, and vane or wide-vane positions the same way the physical remote does. The wall unit and the LCD update as you change them.
+3. **Controller.** Pick the SmartIR controller, or the Broadlink, Tuya, ESPHome or Pronto encoding it reads. The code is shown with a Copy button, and a Flipper `.ir` file can be downloaded.
+4. **SmartIR file.** Enter the manufacturer and model, select the modes, fans and vane positions you want in the file, then print the SmartIR file. Save it as `custom_codes/climate/<number>.json` and set `device_code` to that number.
 
-Bytes are sent least significant bit first.
+Vane positions are chosen on the fan graphic: click a stroke to turn it on or off. If nothing is selected, swing is left out of the file. Auto and Swing sit beside the fan. The wide-vane fan hangs from the top, with the left and right labels as you face the unit.
 
-| Bytes | Meaning |
-| --- | --- |
-| 0–4 | Preamble `23 CB 26 01 00` |
-| 5 | Power: `20` on, `00` off |
-| 6 | Mode: cool `18`, dry `10`, fan `38` |
-| 7 | Cool setpoint minus 16. Dry and fan store `08` |
-| 8 | Vane byte, constant per mode: cool `36`, dry `32`, fan `30` |
-| 9 | Fan in the low 3 bits: 0 auto, 1 low, 2 mid, 3 high, 4 highest, 5 quiet. Upper nibble is `7`, or `B` at 16°C and 31°C in cool, and for auto fan in dry and fan-only |
-| 10 | Remote clock, minutes divided by 6 |
-| 11–16 | Zero |
-| 17 | Checksum, low 8 bits of the sum of bytes 0–16 |
+## Deploy to GitHub Pages
 
-The IR timing is a 3.5 ms header mark, a 1.7 ms header space, a 0.43 ms bit mark, a 0.39 ms space for 0, and a 1.25 ms space for 1. Broadlink stores those widths as ticks of 8192/269 microseconds, in a packet that starts with `0x26`.
+`.github/workflows/pages.yml` tests, builds and publishes `out/` on every push to `main`. In the repo settings, set **Pages → Source** to **GitHub Actions**. The workflow sets `PAGES_BASE_PATH=/<repo>` so asset URLs work under `https://<user>.github.io/<repo>/`; for a `<user>.github.io` repo it leaves the base path empty.
 
-287 of the 288 on-commands rebuild exactly, clock included. The published capture for cool, high fan, 18°C is a copy of the 17°C code, so the generator writes 18°C (`byte 7 = 02`) rather than repeating that capture. The single off code in the table is cool, 22°C, low fan, with the power byte clear.
+## Library layout
 
-There is no heat mode and no operating-mode auto in this code set. Copy the Base64 string into a Broadlink sender. The studio does not transmit IR by itself.
+```
+lib/ir/
+  core/        types (ClimateState, AcProtocol), pulse-distance writer/reader, bit and checksum helpers
+  protocols/   one file per protocol, each with its own test file (67 protocols)
+  transports/  Broadlink, Tuya (UFO-R11 / ZS06 / Zigbee2MQTT), Pronto, ESPHome, Flipper .ir
+  formats.ts   SmartIR controllers, the encoding each one reads, and the codec for each encoding
+  brands.ts    brand → model → candidate protocols (data generated into brands.data.ts)
+  smartir.ts   SmartIR climate JSON builder and the Flipper test set
+  index.ts     registry, identify(), encodeState(), fitState()
+components/guide/   the single-page UI: protocol, remote, wall unit, controller, SmartIR builder
+```
+
+Every protocol implements the same small interface:
+
+- `build(state, variant?)`: a brand-neutral state in, payload bytes out (checksums included).
+- `parse(bytes)`: bytes back to the state.
+- `modulate(bytes)` / `demodulate(pulses)`: payload to µs mark/space timings and back, validating timing and checksum.
+- `capabilities`: the modes, fans, vane positions, temperature range and extras the remote really has.
+- `variants`: documented remote-to-remote differences inside one protocol, offered as "didn't work, next" trials.
+- `powerToggle`: set on remotes whose power key only toggles. The SmartIR file then writes the same toggle frame for both `on` and `off`.
+
+Each protocol is checked against byte vectors and captures from upstream test suites. Those captures are copied from third-party repositories, so `data/fixtures/` is gitignored and not redistributed. Tests that read it run only when the folder is present locally and are skipped in CI. `data/888.json` (a learned Mr. Slim) and `data/msxy-fp.json` (SmartIR 1136) are the Mitsubishi golden captures.
+
+## Licence
+
+The code in this repository is MIT licensed (see `LICENSE`). Third-party sources are listed below and keep their own licences.
+
+## SmartIR controllers
+
+| Controller | Encoding | Written as |
+| --- | --- | --- |
+| Broadlink | Base64, Hex, Pronto | Broadlink packet (`0x26`, 8192/269 µs ticks) |
+| UFOR11, MQTT, ZHA | Raw | Tuya compressed stream |
+| ESPHome | Raw | JSON array, spaces negative |
+| Xiaomi, LOOKin | Pronto | Pronto learned format |
+
+## Brand list
+
+The brand and model picker is no longer shown in the app, but the data is still generated and checked by the test suite. `lib/ir/brands.data.ts` comes from IRremoteESP8266's `SupportedProtocols.md`, keeping only rows with full A/C support:
+
+```bash
+python3 scripts/gen-brands.py path/to/IRremoteESP8266/SupportedProtocols.md
+```
+
+A model tagged with a sub-protocol (for example `(DAIKIN2)`) maps straight to it. A tag naming a remote (for example `(ARRAH2E)`) becomes a variant hint. Untagged models list every protocol from the same family as trials. Rerun the script after adding a protocol file.
+
+## Sources and licences
+
+- [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266) and [IRremoteIDF](https://github.com/crankyoldgit/IRremoteIDF) (LGPL-2.1): frame layouts, timings, checksums, the brand and model list, and test vectors. The protocols here are written from those documented facts; no source is copied.
+- [SmartIR, litinoveweedle fork](https://github.com/litinoveweedle/SmartIR) (MIT): the climate file schema, the controller list, and community captures used as fixtures.
+- [svyatogor's Broadlink-to-Tuya gist](https://gist.github.com/svyatogor/7839d00303998a9fa37eb48494dd680f): the Tuya stream compression.
+- [Flipper Zero infrared file format](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/file_formats/InfraredFileFormats.md) and [Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB) (CC0): the `.ir` format and the universal `ac.ir` button names (`Off`, `Cool_hi`, `Cool_lo`, `Heat_hi`, `Heat_lo`, `Dh`).

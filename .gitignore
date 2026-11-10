@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# third-party captures copied from upstream test suites (not redistributed)
+/data/fixtures/
+
 # debug
 npm-debug.log*
 yarn-debug.log*

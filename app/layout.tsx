@@ -1,21 +1,28 @@
 import type { Metadata } from "next";
-import { Fraunces, Outfit } from "next/font/google";
+import { Courier_Prime, Space_Grotesk, Space_Mono } from "next/font/google";
 import "./globals.css";
 
-const outfit = Outfit({
+const grotesk = Space_Grotesk({
   variable: "--font-sans",
   subsets: ["latin"],
 });
 
-const fraunces = Fraunces({
-  variable: "--font-display",
+const mono = Space_Mono({
+  variable: "--font-telemetry",
+  weight: ["400", "700"],
+  subsets: ["latin"],
+});
+
+const tape = Courier_Prime({
+  variable: "--font-tape",
+  weight: ["400", "700"],
   subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "MSXY-FP IR studio",
+  title: "Aircon IR coder",
   description:
-    "Decode and build Broadlink infrared codes for Mitsubishi Electric MSXY-FP air conditioners.",
+    "Generate aircon IR codes for SmartIR (Broadlink, UFO-R11, ESPHome and more) and Flipper Zero from the protocol, for dozens of brands.",
 };
 
 export default function RootLayout({
@@ -24,8 +31,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${outfit.variable} ${fraunces.variable} antialiased`}>{children}</body>
+    <html lang="en" className={`${grotesk.variable} ${mono.variable} ${tape.variable}`}>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }

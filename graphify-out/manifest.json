@@ -1,0 +1,1077 @@
+{
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/postcss.config.mjs": {
+    "mtime": 1793931875.0,
+    "ast_hash": "675899342e765a4d16acd75a53389101",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/package.json": {
+    "mtime": 1794149769.5831187,
+    "ast_hash": "89e82b1bc555d2c0aa8269a3ef8dc487",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components.json": {
+    "mtime": 1793931875.0,
+    "ast_hash": "63b2c4fcf776fec9dbc76e94ea0d70c6",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/tsconfig.json": {
+    "mtime": 1794149793.4694445,
+    "ast_hash": "4040d1a1a17763183a871218b9fcc816",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/eslint.config.mjs": {
+    "mtime": 1793931875.0,
+    "ast_hash": "f1e80e839db34357a0e228efe227e759",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/next.config.ts": {
+    "mtime": 1794149588.3446,
+    "ast_hash": "0193825e2f6117fb9718e3cc03133409",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/app/layout.tsx": {
+    "mtime": 1794149767.6402864,
+    "ast_hash": "1d8b98b80ccadaf5ca7df8ab7047626a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/app/page.tsx": {
+    "mtime": 1794149763.2991195,
+    "ast_hash": "255616914208bb59995080039a2d93d7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/sources.tsx": {
+    "mtime": 1794149762.5101278,
+    "ast_hash": "ee832949c5485f70382228aa05d497d1",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/smartir-builder.tsx": {
+    "mtime": 1794149718.2121289,
+    "ast_hash": "dcac0df97192b17bc2fd3dcfbd644d92",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/guide.tsx": {
+    "mtime": 1794149858.0696707,
+    "ast_hash": "6804109abdfdd386f99b8769faaf9273",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/tune.tsx": {
+    "mtime": 1794149696.9598184,
+    "ast_hash": "5fb7e434f2db44e79759ba93eb9d1f4d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/controls.tsx": {
+    "mtime": 1794149633.692137,
+    "ast_hash": "258481602789025bcb6a5ba220f8437a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/describe.ts": {
+    "mtime": 1794149669.4115732,
+    "ast_hash": "cc7bd96c97f11bec837451918222e7ce",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/identify.tsx": {
+    "mtime": 1794149920.0820029,
+    "ast_hash": "13b282a19fc7672e7264c126fd1f4660",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/ui/slider.tsx": {
+    "mtime": 1793931875.0,
+    "ast_hash": "d90b5716f23a845ec5d09a909a205d79",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/ui/badge.tsx": {
+    "mtime": 1793931875.0,
+    "ast_hash": "b2427bd0bd8c25c554f5a648c286e8e4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/ui/separator.tsx": {
+    "mtime": 1793931875.0,
+    "ast_hash": "68ef96041727d804c3b82aeade49c246",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/ui/button.tsx": {
+    "mtime": 1793931875.0,
+    "ast_hash": "2700bddde0ac66fc6f2fc1b56fcfdc2d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/components/ui/input.tsx": {
+    "mtime": 1793931875.0,
+    "ast_hash": "7548c6f7aef9d450575ca4d25e378346",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/scripts/gen-brands.py": {
+    "mtime": 1794149515.8410914,
+    "ast_hash": "733ee96f90047797c249ef1cc5f3c6a2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/utils.ts": {
+    "mtime": 1793931875.0,
+    "ast_hash": "0482d21cfeab8cfcfe44f94927e45afb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/smartir.ts": {
+    "mtime": 1794149576.0827987,
+    "ast_hash": "19d4e1d31fc2564edda331044137364a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/formats.ts": {
+    "mtime": 1794149257.699823,
+    "ast_hash": "070c62582616c9e9fc00b49b35657a7f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/brands.data.ts": {
+    "mtime": 1794149577.7283826,
+    "ast_hash": "ab2c0718e9aca55ae931860360a7cf0e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/brands.ts": {
+    "mtime": 1794149556.8067203,
+    "ast_hash": "458c11948b0b6bef70949ddb2c64f337",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/library.test.ts": {
+    "mtime": 1794149947.358632,
+    "ast_hash": "bece8d4f824c4791f0771fe3439d7197",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/index.ts": {
+    "mtime": 1794149917.50255,
+    "ast_hash": "ff4d1cb44963bd50093f45afe0da8c23",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/labels.ts": {
+    "mtime": 1794149621.704558,
+    "ast_hash": "51a183370a9d1a8a9dbd1a7ae69b47d8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/core/pulses.ts": {
+    "mtime": 1794149096.6591094,
+    "ast_hash": "1987c5afe9fcf9062874fb9dd9c8e546",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/core/table.ts": {
+    "mtime": 1794149110.7112029,
+    "ast_hash": "5718435715183d48ee2775cf10f4749d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/core/types.ts": {
+    "mtime": 1794149342.4937658,
+    "ast_hash": "82f7a1a09ebcf139ffc23c37bcabc015",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/core/bits.ts": {
+    "mtime": 1794149108.3209646,
+    "ast_hash": "90d2b9c4af5a0ec4147360c8a31cee13",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/flipper.ts": {
+    "mtime": 1794149226.8798687,
+    "ast_hash": "4e230deb4fe81acabe9143e025e8fae6",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/pronto.ts": {
+    "mtime": 1794149218.3547318,
+    "ast_hash": "c2f79ac8052f8843e9890cecf47671ca",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/transports.test.ts": {
+    "mtime": 1794149299.7073865,
+    "ast_hash": "437afbf53ada7d89728021e450288417",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/broadlink.ts": {
+    "mtime": 1794149203.6583862,
+    "ast_hash": "93c423e7449ea04d34453f6b65b3abbc",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/tuya.ts": {
+    "mtime": 1794149241.3260615,
+    "ast_hash": "b62f57fcf24738310db11a9686d2c988",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/esphome.ts": {
+    "mtime": 1794149220.8446052,
+    "ast_hash": "132a8e4ba87e91354d6a7799ea0aad2b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/transports/base64.ts": {
+    "mtime": 1794149196.3377492,
+    "ast_hash": "5bcf1eb306e74e74af5af1cf29752b17",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/panasonic_ac32.ts": {
+    "mtime": 1794150150.5454853,
+    "ast_hash": "0fbfc119d2076350a0a4e4c107b17ce7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_ac.ts": {
+    "mtime": 1794149159.6267917,
+    "ast_hash": "ba623d6837067ac9bd6fbe76006f0b6a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac.ts": {
+    "mtime": 1794149865.6734495,
+    "ast_hash": "81e4428e6e66df44e292ed5d0b12075d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac344.test.ts": {
+    "mtime": 1794150275.168409,
+    "ast_hash": "95234f9e743df083bfe6d857b0371a31",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac424.test.ts": {
+    "mtime": 1794150275.1693199,
+    "ast_hash": "7f64797c96fdd7f84d13539d99a0afd4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_ac.test.ts": {
+    "mtime": 1794149288.3124652,
+    "ast_hash": "22c1a7707fea24d6f13987a0f74b5de8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_hitachi.ts": {
+    "mtime": 1794149790.8368533,
+    "ast_hash": "1ed5960e3e9ce85ed5bc7f3ab83a5e09",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac176.test.ts": {
+    "mtime": 1794150275.1656084,
+    "ast_hash": "6038247d27a16b29ff5085839649031c",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac.test.ts": {
+    "mtime": 1794150275.162802,
+    "ast_hash": "02bc2fdd5d5057ee873286c297a14a78",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac.ts": {
+    "mtime": 1794150020.5176325,
+    "ast_hash": "f2ace3bcc90ca97429e164fc2aa58701",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac_yrw02.test.ts": {
+    "mtime": 1794150275.1659384,
+    "ast_hash": "edff102dd3e7233f5f08942cb05d53bb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_roundtrip.ts": {
+    "mtime": 1794150069.939899,
+    "ast_hash": "08869e1c7e1d18e3de818a2481e91d6e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac296.test.ts": {
+    "mtime": 1794150275.1680152,
+    "ast_hash": "25481872bbbb783e676c391e69e7dfe3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac176.ts": {
+    "mtime": 1794149985.125592,
+    "ast_hash": "e04003df7baf5c26f884b30df0a8e9a2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/samsung_ac.ts": {
+    "mtime": 1794150284.6957092,
+    "ast_hash": "8509d6d97902fc742e7913585d318d4b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac1.ts": {
+    "mtime": 1794150306.502161,
+    "ast_hash": "349cf1252dd3cd99167697257844a13d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac.test.ts": {
+    "mtime": 1794150275.1668005,
+    "ast_hash": "955470622c7c866cb6dfe7fb35f08b81",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac264.ts": {
+    "mtime": 1794149838.4300942,
+    "ast_hash": "934febe9d6d6176cd8d54e471c2778e8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac_yrw02.ts": {
+    "mtime": 1794149989.2992063,
+    "ast_hash": "08be059180941351d3fe9063f3278a63",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac160.ts": {
+    "mtime": 1794150012.6859477,
+    "ast_hash": "85e3768a6e9d1a42cc169106078c6fa7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac296.ts": {
+    "mtime": 1794149845.817919,
+    "ast_hash": "2dd2a65a2219710c121cbf8d619582d5",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac1.test.ts": {
+    "mtime": 1794150275.1672504,
+    "ast_hash": "ac6bef4436df29905fc97fd09b65d722",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac344.ts": {
+    "mtime": 1794149821.7607841,
+    "ast_hash": "b771f3dc233d75d1e787b0f80e9ea70a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac264.test.ts": {
+    "mtime": 1794150275.167526,
+    "ast_hash": "04ccaeb4450f02a6a930ff664dc59aa1",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/panasonic_ac.test.ts": {
+    "mtime": 1794150977.2434108,
+    "ast_hash": "55bc7b9c3915561a186eaba9e02890de",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/index.ts": {
+    "mtime": 1794149266.0513883,
+    "ast_hash": "17b89fe68065749c27a3c797840f1779",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/panasonic_ac32.test.ts": {
+    "mtime": 1794150166.2174854,
+    "ast_hash": "3d82ce397e7c25d55570bf89b8314885",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/samsung_ac.test.ts": {
+    "mtime": 1794150977.2440557,
+    "ast_hash": "d1f99afff77cc2d57112fee78c3a12ef",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/haier_ac160.test.ts": {
+    "mtime": 1794150275.164949,
+    "ast_hash": "b56c6d536f2b1be6bf7486d0eb468f31",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_haier.ts": {
+    "mtime": 1794150070.5617669,
+    "ast_hash": "5c208cf531b2e23629cc12b83aaca53e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/hitachi_ac424.ts": {
+    "mtime": 1794149802.2875884,
+    "ast_hash": "e3de6a1346dd1318668bd552c4761756",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/panasonic_ac.ts": {
+    "mtime": 1794150051.3884845,
+    "ast_hash": "a0cf575183a0ffdf5ae916bb638e34a7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/888.json": {
+    "mtime": 1793981521.586414,
+    "ast_hash": "166205ff4a28e2b4b60b5fc4726bb816",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/msxy-fp.json": {
+    "mtime": 1793931875.0,
+    "ast_hash": "98386210d8f595a28d246420f9bc66e0",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-panasonic_ac32.json": {
+    "mtime": 1794149968.9353733,
+    "ast_hash": "2ee0a811ed6bcbeaffd5fc9900c3f962",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-lg.json": {
+    "mtime": 1794149968.9372935,
+    "ast_hash": "ffdf3b4ce6fcc00deb22320c98bf2b07",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-carrier_ac64.json": {
+    "mtime": 1794150797.7220874,
+    "ast_hash": "6b3f5f33b2eaaa766f993dd0273ddd7f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-sharp_ac.json": {
+    "mtime": 1794149968.9388413,
+    "ast_hash": "f28c45800dedea8dea93d1fcb84563a2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-lg2.json": {
+    "mtime": 1794149968.9378932,
+    "ast_hash": "afa3f2c238b08111d68dba999be2511f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1143-ufor11-off.json": {
+    "mtime": 1794149305.2844348,
+    "ast_hash": "516d68f2a30bd97c3be1806d697c34ae",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-samsung_ac.json": {
+    "mtime": 1794149968.9365158,
+    "ast_hash": "cdb8f13aea539e7841fa9c91aaa22661",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-toshiba_ac.json": {
+    "mtime": 1794150653.2271254,
+    "ast_hash": "16d4923c2134aed753fd955ac606a010",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-fujitsu_ac.json": {
+    "mtime": 1794150738.27354,
+    "ast_hash": "60e878614b6eed4796ae850b9fd788a6",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-panasonic_ac.json": {
+    "mtime": 1794149968.934838,
+    "ast_hash": "2a39d9e73e9bc6e0a8028d52637b5896",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/README.md": {
+    "mtime": 1794149973.8721282,
+    "ast_hash": "627ab0339cb5e088e44ff4a0d06759fc",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/.github/workflows/pages.yml": {
+    "mtime": 1794149591.8907385,
+    "ast_hash": "ebbc6f8bc3677bc16877fb26ec641d2a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/file.svg": {
+    "mtime": 1793931875.0,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/vercel.svg": {
+    "mtime": 1793931875.0,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/next.svg": {
+    "mtime": 1793931875.0,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/globe.svg": {
+    "mtime": 1793931875.0,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/window.svg": {
+    "mtime": 1793931875.0,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/electra_ac.ts": {
+    "mtime": 1794151483.305876,
+    "ast_hash": "2f69cf7dd4f9a8cfd42ed66069be38d3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/teknopoint.ts": {
+    "mtime": 1794151646.445419,
+    "ast_hash": "533536c712b79f5da105779e7cc673d4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/lg.ts": {
+    "mtime": 1794150378.7610471,
+    "ast_hash": "855c3a0c0f51de0c5429117ad7a0e75e",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/whirlpool_ac.ts": {
+    "mtime": 1794150611.4588802,
+    "ast_hash": "05aff16adb0eb4e4e1a52f1b3a9adc50",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/amcor.ts": {
+    "mtime": 1794151053.5034597,
+    "ast_hash": "fe009d7d4e928a692b88046f9fd3f8f4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi136.ts": {
+    "mtime": 1794150593.6024516,
+    "ast_hash": "89feba8923ab95bc143f9965a1b5568f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/lg.test.ts": {
+    "mtime": 1794150982.9078329,
+    "ast_hash": "e49a43c38fee455f5e79b2a358bbc319",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin128.test.ts": {
+    "mtime": 1794150755.4331388,
+    "ast_hash": "91508bf2083076264fc476e0880bf537",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi112.ts": {
+    "mtime": 1794150585.4519699,
+    "ast_hash": "cee098f09cc6e9828d58ea898096954d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/lg2.test.ts": {
+    "mtime": 1794150468.721602,
+    "ast_hash": "d34274127b696648a35cd4c5dc743ce9",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/truma.ts": {
+    "mtime": 1794150491.2848582,
+    "ast_hash": "5f8e0e4fa877fed7ee26ab49a1578891",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/gree.ts": {
+    "mtime": 1794150921.8626199,
+    "ast_hash": "4f014c87a88f229f54b028450c5f8c64",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/fujitsu_ac.test.ts": {
+    "mtime": 1794150760.8944001,
+    "ast_hash": "445f76e67d6830fd4ba2b9123bcfd11c",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin176.ts": {
+    "mtime": 1794150390.1281307,
+    "ast_hash": "6e9c1a2bb09f600517fc355f3ad21162",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin152.test.ts": {
+    "mtime": 1794150755.4334486,
+    "ast_hash": "351ed03290ad8414e94038ca56a10dc7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin152.ts": {
+    "mtime": 1794150376.6089816,
+    "ast_hash": "c6c05064f70b4b07d0698856fa2df2a6",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/coolix.ts": {
+    "mtime": 1794150494.316523,
+    "ast_hash": "a731783045b304bf95af448d43beba11",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin.test.ts": {
+    "mtime": 1794150755.4319797,
+    "ast_hash": "59b58cd81b837944c90558d87d316b00",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/trotec_3550.ts": {
+    "mtime": 1794151076.6516857,
+    "ast_hash": "422b5ab8e87f399bf08e5d77036b9471",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/rhoss.ts": {
+    "mtime": 1794150420.0660818,
+    "ast_hash": "eb4000b4af8d274419740122f1e42c2d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/teco.ts": {
+    "mtime": 1794150451.0394635,
+    "ast_hash": "456b7801288691b434da67842ca47eb2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin176.test.ts": {
+    "mtime": 1794150755.4340503,
+    "ast_hash": "09090f737650dc6411a99ff3b8ce83de",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin64.ts": {
+    "mtime": 1794150361.4973838,
+    "ast_hash": "3e6261cec445e532c19135c7197c5384",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin128.ts": {
+    "mtime": 1794150370.225728,
+    "ast_hash": "d1f4561435a9a227f00d776d6cf80f0d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/transcold.ts": {
+    "mtime": 1794150464.235075,
+    "ast_hash": "bfaeebf56278be2fee0f3bece96f4663",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sanyo_ac.ts": {
+    "mtime": 1794150427.7448797,
+    "ast_hash": "c73b2e147b6ffd536207135e639b5ab3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/eurom.ts": {
+    "mtime": 1794151054.5550897,
+    "ast_hash": "78c6b42b98df92e741b56cceb7f817be",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_lg.ts": {
+    "mtime": 1794150375.2309391,
+    "ast_hash": "2ac9c3b2a8f0a98a978f3c5be467466f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/kelvinator.ts": {
+    "mtime": 1794150708.1842835,
+    "ast_hash": "3780e810ba899ac4d27f65b4a5957ce8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin312.test.ts": {
+    "mtime": 1794150755.434887,
+    "ast_hash": "3ced3ab617cbdb13a3cdb6a3344168af",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_mitsubishi_heavy.ts": {
+    "mtime": 1794150792.4626088,
+    "ast_hash": "7f4fab6ec6c186ba37b43cf17d13393b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/kelon.ts": {
+    "mtime": 1794151059.389638,
+    "ast_hash": "7c2c050288ca9dac6158070199a631ba",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_heavy_152.ts": {
+    "mtime": 1794150646.8983073,
+    "ast_hash": "e3d5e83e9d95cc4d0296b26c3e389805",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/airton.ts": {
+    "mtime": 1794151052.3674295,
+    "ast_hash": "5f140efbd775b78200eb7825ee88bd81",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_daikin.ts": {
+    "mtime": 1794150336.429093,
+    "ast_hash": "15cc4e361200aefb139b46d467bf61bb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin64.test.ts": {
+    "mtime": 1794150755.4328136,
+    "ast_hash": "26bae7fcd1669f26e64b6013448e8b04",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sharp_ac.test.ts": {
+    "mtime": 1794150569.9810662,
+    "ast_hash": "0493504871097af6593effbe59d9ab3f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/tcl112ac.ts": {
+    "mtime": 1794151645.8226569,
+    "ast_hash": "02e63eb6cb23f1c9bb7b136a170c7402",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin.ts": {
+    "mtime": 1794150346.1320899,
+    "ast_hash": "496e25ce08c61939ac0e6d580184cd3b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sanyo_ac88.ts": {
+    "mtime": 1794151182.5048447,
+    "ast_hash": "79ed14370e4ec5c0116f358936049272",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/toshiba_ac.test.ts": {
+    "mtime": 1794150666.1321177,
+    "ast_hash": "9f9a6641473369ecc5af566d0ac2df78",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/toshiba_ac.ts": {
+    "mtime": 1794150638.921114,
+    "ast_hash": "91847eeefdc84c4be5781f1aa7cb11d7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/york.ts": {
+    "mtime": 1794150620.2435532,
+    "ast_hash": "5700c5c2f88ffcb647f7251ef951c5f5",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/trotec.ts": {
+    "mtime": 1794150586.0111477,
+    "ast_hash": "897b70eaf9f63841954c6737b11f5cb5",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/vestel_ac.ts": {
+    "mtime": 1794150524.6074388,
+    "ast_hash": "7e8648084b28338873fd89ee803f251b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/_tcl.ts": {
+    "mtime": 1794150476.4436262,
+    "ast_hash": "ba46158c2015226a2c97f80ba394fb49",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/fujitsu_ac.ts": {
+    "mtime": 1794150727.4978523,
+    "ast_hash": "bc6389a341c848e06c66fa5d089bf71d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sharp_ac.ts": {
+    "mtime": 1794150550.778717,
+    "ast_hash": "3fac009d2a11c1011364654f8ed1f79b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin312.ts": {
+    "mtime": 1794150405.6077101,
+    "ast_hash": "4133f8ad75571603fb723f88e27df950",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin2.test.ts": {
+    "mtime": 1794150755.4324856,
+    "ast_hash": "41872b4e52976c8c39ff189ae0cfa155",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin2.ts": {
+    "mtime": 1794150355.1876538,
+    "ast_hash": "9bf59b5f1fee9a23296d7ec1282e8ef9",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/lg2.ts": {
+    "mtime": 1794150383.95138,
+    "ast_hash": "17632c0017d6b38ac378f1f8bb453d91",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin216.test.ts": {
+    "mtime": 1794150755.434519,
+    "ast_hash": "16bd4e4c9c53f00ac6734a9cf5bf5c88",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin160.test.ts": {
+    "mtime": 1794150755.4337485,
+    "ast_hash": "ad84bdf4662a6d2f140edc9a1a2ef216",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/technibel_ac.ts": {
+    "mtime": 1794150442.165134,
+    "ast_hash": "d251278b94660963820b3e47a99c9546",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin216.ts": {
+    "mtime": 1794150526.6770108,
+    "ast_hash": "846fed5e4717bb5adb0d28b7f29a589a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/midea.ts": {
+    "mtime": 1794150509.2460625,
+    "ast_hash": "a00406943f6ee20a6c271131bea8477b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/voltas.ts": {
+    "mtime": 1794150597.2712142,
+    "ast_hash": "1da862f83e14a15a8e142f792db5cf15",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_heavy_88.ts": {
+    "mtime": 1794150603.6263373,
+    "ast_hash": "43ed259db41ee814fd818536c40f532b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/daikin160.ts": {
+    "mtime": 1794150382.149725,
+    "ast_hash": "162643b73ae331acc8ec6fa124aa2d5f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-s-to-y.json": {
+    "mtime": 1794150733.436268,
+    "ast_hash": "75e759fdb42c74f78b018161414e8d18",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/teco.test.ts": {
+    "mtime": 1794150875.4011507,
+    "ast_hash": "12bedb95a1b96dbc6983fec45d08ecbb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/voltas.test.ts": {
+    "mtime": 1794151208.49655,
+    "ast_hash": "4df759b86dce4bd9d312844cdd849689",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/transcold.test.ts": {
+    "mtime": 1794150879.9343312,
+    "ast_hash": "be74633d683c53293f109555b3bacc5d",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/vestel_ac.test.ts": {
+    "mtime": 1794151184.1878006,
+    "ast_hash": "814c138ad0568324b356109b7248e3ae",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sanyo_ac.test.ts": {
+    "mtime": 1794151079.3357804,
+    "ast_hash": "526d0a1d8472b1276d7db1ee549c2e7f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/carrier_ac64.test.ts": {
+    "mtime": 1794150826.216153,
+    "ast_hash": "7ab18a8ccf9e1e60d76b2c184f7da199",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/york.test.ts": {
+    "mtime": 1794150916.2302961,
+    "ast_hash": "304aa3097e8730dc85b7521428382a5b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/truma.test.ts": {
+    "mtime": 1794150898.7680213,
+    "ast_hash": "75e5f467262ec077d8c1d9b811499627",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/technibel_ac.test.ts": {
+    "mtime": 1794150871.68885,
+    "ast_hash": "376afd5c696bfc3b67d37dab08177b9b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/rhoss.test.ts": {
+    "mtime": 1794150859.8623474,
+    "ast_hash": "0e0bda1fb42ae5a64cbf07782bcab0f4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/carrier_ac64.ts": {
+    "mtime": 1794150810.9985168,
+    "ast_hash": "569e3e9b2fcbd22d9f848a7c642bc238",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/trotec_3550.test.ts": {
+    "mtime": 1794150885.4947886,
+    "ast_hash": "6f02d4c4ecdac8caeaeda0c4d6da4435",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/trotec.test.ts": {
+    "mtime": 1794150882.5487256,
+    "ast_hash": "589e92cbfcdfb20df570466682d9c3b9",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/sanyo_ac88.test.ts": {
+    "mtime": 1794150868.332362,
+    "ast_hash": "fe57cdb2a2e28e70354591f79b106aec",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/whirlpool_ac.test.ts": {
+    "mtime": 1794151208.9843519,
+    "ast_hash": "4f2a14d0cc81e436032b51147410a222",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1021-panasonic_ac.json": {
+    "mtime": 1794150949.9085593,
+    "ast_hash": "7a5210134fa475135c4e0147e30d58c3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1400-samsung_ac.json": {
+    "mtime": 1794150949.9109108,
+    "ast_hash": "5f880eebe8be0e52ab24b9dc4135c4d5",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1060-lg.json": {
+    "mtime": 1794150949.9097288,
+    "ast_hash": "2a2f56440f2ce5a68dfe2b1661c3deeb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/neoclima.ts": {
+    "mtime": 1794151111.8613505,
+    "ast_hash": "144d7e51f45a19f4c56ee6ea824442d2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mirage.ts": {
+    "mtime": 1794151198.4693513,
+    "ast_hash": "9ac50acb3b10271f07fdfff1720811eb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/ecoclim.ts": {
+    "mtime": 1794151152.8329372,
+    "ast_hash": "2d2fb7e9c245547a5be182273f039c49",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/midea.test.ts": {
+    "mtime": 1794151234.3004937,
+    "ast_hash": "377c12135413b6faa319e8f4733a327a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/coolix.test.ts": {
+    "mtime": 1794151615.7812707,
+    "ast_hash": "6c137ad260af0dcbb6d1f9a92de1af08",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/delonghi_ac.ts": {
+    "mtime": 1794151079.4244676,
+    "ast_hash": "2e6d69eb25a139eb09bad47def31aaeb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/airwell.ts": {
+    "mtime": 1794151072.439399,
+    "ast_hash": "8c6ad7d0eeb0a53e0f690c888d670bbf",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/argo.ts": {
+    "mtime": 1794151182.6059637,
+    "ast_hash": "f5edbf2d2a0b82c1a8648838fd518432",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/goodweather.ts": {
+    "mtime": 1794151487.0139549,
+    "ast_hash": "515b9a6b50556443212304024bdbd3c7",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/bosch144.ts": {
+    "mtime": 1794151142.2820961,
+    "ast_hash": "2a8f1ec984725094d4a951be85f719d8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/corona_ac.ts": {
+    "mtime": 1794151124.0011275,
+    "ast_hash": "982b116d9738c66dfd525c5bc6bb578b",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-midea.json": {
+    "mtime": 1794151220.8989666,
+    "ast_hash": "268f41dd0f805f1964c0a029b5be4009",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-mitsubishi_heavy_152.json": {
+    "mtime": 1794151220.9376092,
+    "ast_hash": "dbfda406f1f0af5d76cab8022aff06df",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-teknopoint.json": {
+    "mtime": 1794151220.9281392,
+    "ast_hash": "f610e532b9490524e6b78b5a29a9d5f2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-mitsubishi136.json": {
+    "mtime": 1794151220.9336908,
+    "ast_hash": "d5d54af09767054646a2cdb7f2bf8892",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-tcl112ac.json": {
+    "mtime": 1794151220.9228227,
+    "ast_hash": "c3ea5752124bf33da5650e83de8eaef3",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-gree.json": {
+    "mtime": 1794151220.9091115,
+    "ast_hash": "2ca94cc72f9c53dddfb7b2cc1e5c92e2",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-electra_ac.json": {
+    "mtime": 1794151220.9166727,
+    "ast_hash": "eb6fb7873ce8827040d6a364f943f594",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-coolix.json": {
+    "mtime": 1794151220.888906,
+    "ast_hash": "33cdadbe7a7a6c54ca18191ac1f46722",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/irremoteesp8266-mitsubishi112.json": {
+    "mtime": 1794151220.932933,
+    "ast_hash": "55a999bf6e2663d191a67480eacd4648",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/neoclima.test.ts": {
+    "mtime": 1794151596.6893835,
+    "ast_hash": "acde13758f7d69c9c79fcbb118473934",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/airwell.test.ts": {
+    "mtime": 1794151596.6739988,
+    "ast_hash": "bb03a2b0e83a65bbcf8c6682e9d81dc1",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi112.test.ts": {
+    "mtime": 1794151259.3082087,
+    "ast_hash": "8fee698d6061b87637d4249800b7b88c",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/tcl112ac.test.ts": {
+    "mtime": 1794151251.944458,
+    "ast_hash": "605e2516e8f3e9493d68c9c15fa38b5a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_heavy_152.test.ts": {
+    "mtime": 1794151268.7313166,
+    "ast_hash": "3db8bb35d4eabf6b258f46c711245754",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/airton.test.ts": {
+    "mtime": 1794151596.671532,
+    "ast_hash": "c32f477b364cf0f46adc02909a222d78",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/goodweather.test.ts": {
+    "mtime": 1794151596.687304,
+    "ast_hash": "24b812aabb42f902b0f7937d995d3042",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/amcor.test.ts": {
+    "mtime": 1794151596.6745493,
+    "ast_hash": "23e77e247ecd2f36fcb5483dc50353f4",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/bosch144.test.ts": {
+    "mtime": 1794151596.67501,
+    "ast_hash": "aab1562ca33b2d7e637d3e6dc10217d1",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi136.test.ts": {
+    "mtime": 1794151262.5923193,
+    "ast_hash": "48df248918dcbbeae81a87669ce644cd",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/delonghi_ac.test.ts": {
+    "mtime": 1794151596.6763184,
+    "ast_hash": "d77ab1d96a47f95ea2af1d2fd4595547",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/kelvinator.test.ts": {
+    "mtime": 1794151243.9086673,
+    "ast_hash": "ff51073c98bb79b0c06f09fc69e2d203",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mitsubishi_heavy_88.test.ts": {
+    "mtime": 1794151265.3068156,
+    "ast_hash": "7e2d17ad744c8faa4f84bb4343ab508c",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/kelon.test.ts": {
+    "mtime": 1794151631.8673778,
+    "ast_hash": "cad4d20b117504553ef7c0c663e150b8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/argo.test.ts": {
+    "mtime": 1794151300.4048462,
+    "ast_hash": "6ced3e56e2bcf1dd71f5b9fb9f2c9595",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/ecoclim.test.ts": {
+    "mtime": 1794151596.6778138,
+    "ast_hash": "3f7668af9d94a4df931ba41e5159afac",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/corona_ac.test.ts": {
+    "mtime": 1794151596.6754742,
+    "ast_hash": "8961ec426477e6595fcfd72c0b186cb0",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/mirage.test.ts": {
+    "mtime": 1794151596.68877,
+    "ast_hash": "652fb6a6764767828769195d8aaf5d16",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/gree.test.ts": {
+    "mtime": 1794151620.802949,
+    "ast_hash": "c4750d0a1a5fc8435afe41caba38c562",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/electra_ac.test.ts": {
+    "mtime": 1794151625.5684042,
+    "ast_hash": "b7c395a3e0ac3f952307bc3050e804f6",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/teknopoint.test.ts": {
+    "mtime": 1794151291.2140229,
+    "ast_hash": "ac767028c3e199f46b3c48ca191fae9a",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/eurom.test.ts": {
+    "mtime": 1794151596.6820614,
+    "ast_hash": "66eab769c5280ccbf971030c563f4cf0",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-2460-electra_ac.json": {
+    "mtime": 1794151603.688778,
+    "ast_hash": "30fa6f665c69d19a42c73b260779798c",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1380-coolix.json": {
+    "mtime": 1794151603.6878057,
+    "ast_hash": "48eb99139dd06d2be12fa9a90fc93dbb",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/data/fixtures/smartir-1000-gree.json": {
+    "mtime": 1794151603.6883132,
+    "ast_hash": "5cf210858bda5b3eba5990cf2d489b2c",
+    "semantic_hash": ""
+  }
+}
