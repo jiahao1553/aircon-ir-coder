@@ -56,12 +56,19 @@ The code in this repository is MIT licensed (see `LICENSE`). Third-party sources
 
 ## SmartIR controllers
 
-| Controller | Encoding | Written as |
-| --- | --- | --- |
-| Broadlink | Base64, Hex, Pronto | Broadlink packet (`0x26`, 8192/269 µs ticks) |
-| UFOR11, MQTT, ZHA | Raw | Tuya compressed stream |
-| ESPHome | Raw | JSON array, spaces negative |
-| Xiaomi, LOOKin | Pronto | Pronto learned format |
+| Controller | Encoding | Stored in the climate file | Sent by SmartIR |
+| --- | --- | --- | --- |
+| Broadlink | Base64 | Broadlink packet (`0x26`, 8192/269 µs ticks), base64 | `b64:` plus that packet |
+| Broadlink | Hex | The same packet, hex | Hex is decoded, then sent as `b64:` |
+| Broadlink | Pronto | Pronto hex words | Converted to a Broadlink packet, then sent as `b64:` |
+| Xiaomi | Pronto | Pronto hex words | `pronto:` plus that string |
+| LOOKin | Pronto | Pronto hex words | `GET /commands/ir/prontohex/<code>` |
+| MQTT | Raw | Tuya compressed stream | That string, as the MQTT payload |
+| UFOR11 | Raw | Tuya compressed stream | `{"ir_code_to_send": "<code>"}` |
+| ZHA | Raw | Tuya compressed stream | Zigbee command parameter `code` |
+| ESPHome | Raw | JSON array, marks positive, spaces negative | Parsed and passed to the ESPHome service |
+
+Xiaomi and LOOKin also accept a Raw encoding. Those Raw bodies are device-specific (a Chuangmi blob, a LOOKin path), so the file uses Pronto, which both controllers accept and which is built from the pulse list.
 
 ## Brand list
 
