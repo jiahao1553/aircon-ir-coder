@@ -100,8 +100,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/smartir.ts": {
-    "mtime": 1794323905.4927852,
-    "ast_hash": "9c3578f61d293038e203f17bd29f157f",
+    "mtime": 1794325091.989562,
+    "ast_hash": "2ea9ede9be6da0181d7b0a3a1cbb0a4c",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/formats.ts": {
@@ -120,8 +120,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/library.test.ts": {
-    "mtime": 1794324265.682733,
-    "ast_hash": "42f7040ddc369aff819e1fb87eb54a5a",
+    "mtime": 1794325110.239138,
+    "ast_hash": "9c213f1fd6d71ec24854692acbd09065",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/index.ts": {
@@ -410,8 +410,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/README.md": {
-    "mtime": 1794324270.0734363,
-    "ast_hash": "34f18efebe13f1bcaf26de7bdc6ab320",
+    "mtime": 1794325111.4287364,
+    "ast_hash": "35abade79b93e127736d7df2f3451614",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/.github/workflows/pages.yml": {

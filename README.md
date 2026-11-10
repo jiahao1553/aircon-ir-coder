@@ -64,7 +64,7 @@ The code in this repository is MIT licensed (see `LICENSE`). Third-party sources
 | Xiaomi | Pronto | Pronto hex words | `pronto:` plus that string |
 | LOOKin | Pronto | Pronto hex words | `GET /commands/ir/prontohex/<code>` |
 | MQTT | Raw | Tuya compressed stream | That string, as the MQTT payload |
-| UFOR11 | Raw | Tuya compressed stream | `{"ir_code_to_send": "<code>"}` |
+| UFO-R11 | Raw | `{"ir_code_to_send": "<tuya>"}`, with `supportedController` set to MQTT | That JSON, as the MQTT payload |
 | ZHA | Raw | Tuya compressed stream | Zigbee command parameter `code` |
 | ESPHome | Raw | JSON array, marks positive, spaces negative | Parsed and passed to the ESPHome service |
 

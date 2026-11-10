@@ -63,14 +63,15 @@ test("SmartIR file has the nesting and keys SmartIR validates", () => {
     step: 1,
     base: defaultState(p),
   });
-  assert.equal(file.supportedController, "UFOR11");
+  assert.equal(file.supportedController, "MQTT");
   assert.equal(file.commandsEncoding, "Raw");
   assert.deepEqual(file.operationModes, ["cool", "dry"]);
   const c = file.commands as Record<string, Record<string, Record<string, Record<string, string>>>> & { off: string };
   assert.equal(typeof c.off, "string");
-  assert.equal(c.off.includes("ir_code_to_send"), false);
+  const payload = (command: string) => (JSON.parse(command) as { ir_code_to_send: string }).ir_code_to_send;
+  assert.equal(typeof payload(c.off), "string");
   assert.deepEqual(Object.keys(c.cool.quiet.low), ["21", "22", "23", "24", "25", "26"]);
-  const pulses = decodeTuya(c.cool.quiet.low["23"]);
+  const pulses = decodeTuya(payload(c.cool.quiet.low["23"]));
   assert.deepEqual(pulses, encodeState(p, { ...defaultState(p), temp: 23, fan: "quiet", swingV: "low" }, "mr_slim"));
 });
 
@@ -96,7 +97,7 @@ test("every SmartIR controller gets a climate file that controller can send", ()
         step: 1,
         base,
       });
-      assert.equal(file.supportedController, ctrl.id, ctrl.id);
+      assert.equal(file.supportedController, ctrl.id === "UFOR11" ? "MQTT" : ctrl.id, ctrl.id);
       assert.equal(file.commandsEncoding, opt.encoding, `${ctrl.id} ${opt.encoding}`);
       assert.equal(file.temperatureUnit, "C");
       assert.equal(file.precision, 1);
@@ -107,9 +108,10 @@ test("every SmartIR controller gets a climate file that controller can send", ()
       assert.equal("presetModes" in file, false);
       assert.equal("swingModes" in file, false);
       const commands = file.commands as { off: string; cool: { auto: Record<string, string> } };
-      assert.equal(typeof commands.off, "string");
-      assert.equal(commands.off.includes("ir_code_to_send"), false);
-      const code = commands.cool.auto["24"];
+      const stored = commands.cool.auto["24"];
+      const code = ctrl.id === "UFOR11" ? (JSON.parse(stored) as { ir_code_to_send: string }).ir_code_to_send : stored;
+      if (ctrl.id === "UFOR11") assert.deepEqual(Object.keys(JSON.parse(commands.off)), ["ir_code_to_send"]);
+      else assert.equal(commands.off.includes("ir_code_to_send"), false);
       assert.ok(CODECS[opt.codec].decode(code).length > 8, `${ctrl.id} ${opt.encoding}`);
       if (opt.codec === "pronto") assert.match(code, /^0000( [0-9A-F]{4})+$/);
       if (opt.codec === "broadlinkHex") assert.match(code, /^26[0-9a-f]+$/);

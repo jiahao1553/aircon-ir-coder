@@ -42,8 +42,11 @@ export function commandCount(spec: SmartIrSpec) {
 /** A SmartIR climate device file (litinoveweedle/SmartIR schema). */
 export function buildSmartIr(spec: SmartIrSpec) {
   const { protocol: p } = spec;
-  // UFOR11Controller wraps the stored code as {"ir_code_to_send": code} when it publishes.
-  const encode = (s: ClimateState) => CODECS[spec.codec].encode(encodeState(p, s, spec.variant), p.frequency);
+  const encode = (s: ClimateState) => {
+    const code = CODECS[spec.codec].encode(encodeState(p, s, spec.variant), p.frequency);
+    // UFO-R11 files are loaded by the MQTT controller, which publishes the command as the payload.
+    return spec.controller === "UFOR11" ? JSON.stringify({ ir_code_to_send: code }) : code;
+  };
   const temps = temperatures(spec);
   const swings = spec.swingAxis ? spec.swings : [null];
 
@@ -70,7 +73,7 @@ export function buildSmartIr(spec: SmartIrSpec) {
   return {
     manufacturer: spec.manufacturer,
     supportedModels: spec.models,
-    supportedController: spec.controller,
+    supportedController: spec.controller === "UFOR11" ? "MQTT" : spec.controller,
     commandsEncoding: spec.encoding,
     temperatureUnit: "C",
     minTemperature: spec.minTemp,

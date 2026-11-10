@@ -837,7 +837,7 @@
       "source_file": "components/guide/smartir-builder.tsx",
       "source_location": "L16",
       "id": "guide_smartir_builder_smartirbuilder",
-      "community": 9,
+      "community": 2,
       "norm_label": "smartirbuilder()"
     },
     {
@@ -846,7 +846,7 @@
       "source_file": "components/guide/hub.tsx",
       "source_location": "L1",
       "id": "components_guide_hub_tsx",
-      "community": 13,
+      "community": 2,
       "norm_label": "hub.tsx"
     },
     {
@@ -855,7 +855,7 @@
       "source_file": "components/guide/hub.tsx",
       "source_location": "L13",
       "id": "guide_hub_icon",
-      "community": 13,
+      "community": 2,
       "norm_label": "icon"
     },
     {
@@ -864,7 +864,7 @@
       "source_file": "components/guide/hub.tsx",
       "source_location": "L23",
       "id": "guide_hub_output",
-      "community": 13,
+      "community": 2,
       "norm_label": "output"
     },
     {
@@ -873,7 +873,7 @@
       "source_file": "components/guide/hub.tsx",
       "source_location": "L25",
       "id": "guide_hub_hub",
-      "community": 13,
+      "community": 2,
       "norm_label": "hub()"
     },
     {
@@ -927,7 +927,7 @@
       "source_file": "components/guide/remote.tsx",
       "source_location": "L25",
       "id": "guide_remote_remote",
-      "community": 13,
+      "community": 28,
       "norm_label": "remote()"
     },
     {
@@ -936,7 +936,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L1",
       "id": "components_guide_picks_tsx",
-      "community": 28,
+      "community": 12,
       "norm_label": "picks.tsx"
     },
     {
@@ -945,7 +945,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L9",
       "id": "guide_picks_mode_icon",
-      "community": 28,
+      "community": 12,
       "norm_label": "mode_icon"
     },
     {
@@ -954,7 +954,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L16",
       "id": "guide_picks_fan_bars",
-      "community": 28,
+      "community": 12,
       "norm_label": "fan_bars"
     },
     {
@@ -963,7 +963,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L27",
       "id": "guide_picks_v_rays",
-      "community": 28,
+      "community": 12,
       "norm_label": "v_rays"
     },
     {
@@ -972,7 +972,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L36",
       "id": "guide_picks_h_rays",
-      "community": 28,
+      "community": 12,
       "norm_label": "h_rays"
     },
     {
@@ -981,7 +981,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L45",
       "id": "guide_picks_modepicks",
-      "community": 28,
+      "community": 12,
       "norm_label": "modepicks()"
     },
     {
@@ -990,7 +990,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L88",
       "id": "guide_picks_fanpicks",
-      "community": 28,
+      "community": 12,
       "norm_label": "fanpicks()"
     },
     {
@@ -999,7 +999,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L159",
       "id": "guide_picks_rayends",
-      "community": 28,
+      "community": 12,
       "norm_label": "rayends()"
     },
     {
@@ -1008,7 +1008,7 @@
       "source_file": "components/guide/picks.tsx",
       "source_location": "L165",
       "id": "guide_picks_vanepicks",
-      "community": 28,
+      "community": 12,
       "norm_label": "vanepicks()"
     },
     {
@@ -1053,7 +1053,7 @@
       "source_file": "components/guide/guide.tsx",
       "source_location": "L1",
       "id": "components_guide_guide_tsx",
-      "community": 13,
+      "community": 2,
       "norm_label": "guide.tsx"
     },
     {
@@ -1071,7 +1071,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L1",
       "id": "components_guide_hardware_tsx",
-      "community": 13,
+      "community": 2,
       "norm_label": "hardware.tsx"
     },
     {
@@ -1080,7 +1080,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L6",
       "id": "guide_hardware_segments",
-      "community": 13,
+      "community": 2,
       "norm_label": "segments"
     },
     {
@@ -1089,7 +1089,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L21",
       "id": "guide_hardware_paths",
-      "community": 13,
+      "community": 2,
       "norm_label": "paths"
     },
     {
@@ -1098,7 +1098,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L32",
       "id": "guide_hardware_sevenseg",
-      "community": 28,
+      "community": 2,
       "norm_label": "sevenseg()"
     },
     {
@@ -1107,7 +1107,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L49",
       "id": "guide_hardware_key",
-      "community": 13,
+      "community": 2,
       "norm_label": "key()"
     },
     {
@@ -1116,7 +1116,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L69",
       "id": "guide_hardware_screws",
-      "community": 13,
+      "community": 2,
       "norm_label": "screws()"
     },
     {
@@ -1125,7 +1125,7 @@
       "source_file": "components/guide/hardware.tsx",
       "source_location": "L83",
       "id": "guide_hardware_bay",
-      "community": 13,
+      "community": 2,
       "norm_label": "bay()"
     },
     {
@@ -1188,7 +1188,7 @@
       "source_file": "components/guide/identify.tsx",
       "source_location": "L8",
       "id": "guide_identify_trial",
-      "community": 13,
+      "community": 2,
       "norm_label": "trial"
     },
     {
@@ -1224,7 +1224,7 @@
       "source_file": "components/ui/slider.tsx",
       "source_location": "L1",
       "id": "components_ui_slider_tsx",
-      "community": 2,
+      "community": 28,
       "norm_label": "slider.tsx"
     },
     {
@@ -1233,7 +1233,7 @@
       "source_file": "components/ui/slider.tsx",
       "source_location": "L4",
       "id": "ui_slider_slider",
-      "community": 2,
+      "community": 28,
       "norm_label": "slider()"
     },
     {
@@ -1404,7 +1404,7 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L1",
       "id": "lib_ir_smartir_ts",
-      "community": 9,
+      "community": 12,
       "norm_label": "smartir.ts"
     },
     {
@@ -1413,7 +1413,7 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L6",
       "id": "ir_smartir_smartirspec",
-      "community": 9,
+      "community": 12,
       "norm_label": "smartirspec"
     },
     {
@@ -1422,7 +1422,7 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L26",
       "id": "ir_smartir_withswing",
-      "community": 9,
+      "community": 12,
       "norm_label": "withswing()"
     },
     {
@@ -1431,7 +1431,7 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L32",
       "id": "ir_smartir_temperatures",
-      "community": 9,
+      "community": 12,
       "norm_label": "temperatures()"
     },
     {
@@ -1440,7 +1440,7 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L38",
       "id": "ir_smartir_commandcount",
-      "community": 9,
+      "community": 2,
       "norm_label": "commandcount()"
     },
     {
@@ -1449,14 +1449,14 @@
       "source_file": "lib/ir/smartir.ts",
       "source_location": "L43",
       "id": "ir_smartir_buildsmartir",
-      "community": 9,
+      "community": 12,
       "norm_label": "buildsmartir()"
     },
     {
       "label": "flipperSamples()",
       "file_type": "code",
       "source_file": "lib/ir/smartir.ts",
-      "source_location": "L87",
+      "source_location": "L90",
       "id": "ir_smartir_flippersamples",
       "community": 0,
       "norm_label": "flippersamples()"
@@ -1476,7 +1476,7 @@
       "source_file": "lib/ir/formats.ts",
       "source_location": "L6",
       "id": "ir_formats_encoding",
-      "community": 9,
+      "community": 12,
       "norm_label": "encoding"
     },
     {
@@ -1494,7 +1494,7 @@
       "source_file": "lib/ir/formats.ts",
       "source_location": "L23",
       "id": "ir_formats_codecid",
-      "community": 9,
+      "community": 12,
       "norm_label": "codecid"
     },
     {
@@ -1503,7 +1503,7 @@
       "source_file": "lib/ir/formats.ts",
       "source_location": "L26",
       "id": "ir_formats_controllers",
-      "community": 13,
+      "community": 2,
       "norm_label": "controllers"
     },
     {
@@ -1714,10 +1714,19 @@
       "norm_label": "c"
     },
     {
+      "label": "payload()",
+      "file_type": "code",
+      "source_file": "lib/ir/library.test.ts",
+      "source_location": "L71",
+      "id": "ir_library_test_payload",
+      "community": 0,
+      "norm_label": "payload()"
+    },
+    {
       "label": "pulses",
       "file_type": "code",
       "source_file": "lib/ir/library.test.ts",
-      "source_location": "L73",
+      "source_location": "L74",
       "id": "ir_library_test_pulses",
       "community": 0,
       "norm_label": "pulses"
@@ -1726,7 +1735,7 @@
       "label": "base",
       "file_type": "code",
       "source_file": "lib/ir/library.test.ts",
-      "source_location": "L79",
+      "source_location": "L80",
       "id": "ir_library_test_base",
       "community": 0,
       "norm_label": "base"
@@ -1735,7 +1744,7 @@
       "label": "commands",
       "file_type": "code",
       "source_file": "lib/ir/library.test.ts",
-      "source_location": "L109",
+      "source_location": "L110",
       "id": "ir_library_test_commands",
       "community": 0,
       "norm_label": "commands"
@@ -1744,7 +1753,7 @@
       "label": "values",
       "file_type": "code",
       "source_file": "lib/ir/library.test.ts",
-      "source_location": "L117",
+      "source_location": "L119",
       "id": "ir_library_test_values",
       "community": 0,
       "norm_label": "values"
@@ -1755,7 +1764,7 @@
       "source_file": "lib/ir/index.ts",
       "source_location": "L1",
       "id": "lib_ir_index_ts",
-      "community": 16,
+      "community": 0,
       "norm_label": "index.ts"
     },
     {
@@ -1773,7 +1782,7 @@
       "source_file": "lib/ir/index.ts",
       "source_location": "L13",
       "id": "ir_index_defaultstate",
-      "community": 16,
+      "community": 0,
       "norm_label": "defaultstate()"
     },
     {
@@ -1782,7 +1791,7 @@
       "source_file": "lib/ir/index.ts",
       "source_location": "L27",
       "id": "ir_index_fitstate",
-      "community": 16,
+      "community": 0,
       "norm_label": "fitstate()"
     },
     {
@@ -1800,7 +1809,7 @@
       "source_file": "lib/ir/index.ts",
       "source_location": "L45",
       "id": "ir_index_identified",
-      "community": 16,
+      "community": 0,
       "norm_label": "identified"
     },
     {
@@ -1809,7 +1818,7 @@
       "source_file": "lib/ir/index.ts",
       "source_location": "L54",
       "id": "ir_index_identify",
-      "community": 16,
+      "community": 0,
       "norm_label": "identify()"
     },
     {
@@ -1881,7 +1890,7 @@
       "source_file": "lib/ir/labels.ts",
       "source_location": "L58",
       "id": "ir_labels_fans",
-      "community": 28,
+      "community": 12,
       "norm_label": "fans"
     },
     {
@@ -1971,7 +1980,7 @@
       "source_file": "lib/ir/core/pulses.ts",
       "source_location": "L16",
       "id": "core_pulses_pulsewriter",
-      "community": 6,
+      "community": 134,
       "norm_label": "pulsewriter"
     },
     {
@@ -1980,7 +1989,7 @@
       "source_file": "lib/ir/core/pulses.ts",
       "source_location": "L19",
       "id": "core_pulses_pulsewriter_mark",
-      "community": 6,
+      "community": 134,
       "norm_label": ".mark()"
     },
     {
@@ -1989,7 +1998,7 @@
       "source_file": "lib/ir/core/pulses.ts",
       "source_location": "L23",
       "id": "core_pulses_pulsewriter_space",
-      "community": 6,
+      "community": 134,
       "norm_label": ".space()"
     },
     {
@@ -1998,7 +2007,7 @@
       "source_file": "lib/ir/core/pulses.ts",
       "source_location": "L28",
       "id": "core_pulses_pulsewriter_push",
-      "community": 6,
+      "community": 134,
       "norm_label": ".push()"
     },
     {
@@ -2025,7 +2034,7 @@
       "source_file": "lib/ir/core/pulses.ts",
       "source_location": "L49",
       "id": "core_pulses_pulsewriter_bytes",
-      "community": 6,
+      "community": 134,
       "norm_label": ".bytes()"
     },
     {
@@ -2205,7 +2214,7 @@
       "source_file": "lib/ir/core/table.ts",
       "source_location": "L1",
       "id": "lib_ir_core_table_ts",
-      "community": 119,
+      "community": 125,
       "norm_label": "table.ts"
     },
     {
@@ -2214,7 +2223,7 @@
       "source_file": "lib/ir/core/table.ts",
       "source_location": "L2",
       "id": "core_table_table",
-      "community": 119,
+      "community": 125,
       "norm_label": "table()"
     },
     {
@@ -2232,7 +2241,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L1",
       "id": "lib_ir_core_types_ts",
-      "community": 9,
+      "community": 61,
       "norm_label": "types.ts"
     },
     {
@@ -2241,7 +2250,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L1",
       "id": "core_types_mode",
-      "community": 9,
+      "community": 12,
       "norm_label": "mode"
     },
     {
@@ -2250,7 +2259,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L3",
       "id": "core_types_fan",
-      "community": 9,
+      "community": 12,
       "norm_label": "fan"
     },
     {
@@ -2259,7 +2268,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L14",
       "id": "core_types_swingv",
-      "community": 9,
+      "community": 12,
       "norm_label": "swingv"
     },
     {
@@ -2268,7 +2277,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L25",
       "id": "core_types_swingh",
-      "community": 9,
+      "community": 12,
       "norm_label": "swingh"
     },
     {
@@ -2295,7 +2304,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L56",
       "id": "core_types_capabilities",
-      "community": 9,
+      "community": 61,
       "norm_label": "capabilities"
     },
     {
@@ -2304,7 +2313,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L66",
       "id": "core_types_variant",
-      "community": 9,
+      "community": 61,
       "norm_label": "variant"
     },
     {
@@ -2313,7 +2322,7 @@
       "source_file": "lib/ir/core/types.ts",
       "source_location": "L72",
       "id": "core_types_acprotocol",
-      "community": 60,
+      "community": 0,
       "norm_label": "acprotocol"
     },
     {
@@ -2322,7 +2331,7 @@
       "source_file": "lib/ir/core/bits.ts",
       "source_location": "L1",
       "id": "lib_ir_core_bits_ts",
-      "community": 86,
+      "community": 52,
       "norm_label": "bits.ts"
     },
     {
@@ -2331,7 +2340,7 @@
       "source_file": "lib/ir/core/bits.ts",
       "source_location": "L2",
       "id": "core_bits_getbits",
-      "community": 22,
+      "community": 54,
       "norm_label": "getbits()"
     },
     {
@@ -2349,7 +2358,7 @@
       "source_file": "lib/ir/core/bits.ts",
       "source_location": "L20",
       "id": "core_bits_getbit",
-      "community": 22,
+      "community": 51,
       "norm_label": "getbit()"
     },
     {
@@ -2367,7 +2376,7 @@
       "source_file": "lib/ir/core/bits.ts",
       "source_location": "L28",
       "id": "core_bits_reversebits",
-      "community": 86,
+      "community": 128,
       "norm_label": "reversebits()"
     },
     {
@@ -2718,7 +2727,7 @@
       "source_file": "lib/ir/protocols/teco.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_teco_test_ts",
-      "community": 58,
+      "community": 92,
       "norm_label": "teco.test.ts"
     },
     {
@@ -2727,7 +2736,7 @@
       "source_file": "lib/ir/protocols/teco.test.ts",
       "source_location": "L9",
       "id": "protocols_teco_test_raw",
-      "community": 58,
+      "community": 92,
       "norm_label": "raw"
     },
     {
@@ -2736,7 +2745,7 @@
       "source_file": "lib/ir/protocols/teco.test.ts",
       "source_location": "L10",
       "id": "protocols_teco_test_base",
-      "community": 58,
+      "community": 92,
       "norm_label": "base"
     },
     {
@@ -2745,7 +2754,7 @@
       "source_file": "lib/ir/protocols/teco.test.ts",
       "source_location": "L24",
       "id": "protocols_teco_test_b",
-      "community": 58,
+      "community": 92,
       "norm_label": "b"
     },
     {
@@ -2754,7 +2763,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_neoclima_ts",
-      "community": 26,
+      "community": 22,
       "norm_label": "neoclima.ts"
     },
     {
@@ -2763,7 +2772,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L8",
       "id": "protocols_neoclima_timing",
-      "community": 26,
+      "community": 22,
       "norm_label": "timing"
     },
     {
@@ -2772,7 +2781,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L18",
       "id": "protocols_neoclima_mode",
-      "community": 26,
+      "community": 22,
       "norm_label": "mode"
     },
     {
@@ -2781,7 +2790,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L26",
       "id": "protocols_neoclima_fan",
-      "community": 26,
+      "community": 22,
       "norm_label": "fan"
     },
     {
@@ -2808,7 +2817,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L65",
       "id": "protocols_neoclima_valid",
-      "community": 26,
+      "community": 22,
       "norm_label": "valid()"
     },
     {
@@ -2817,7 +2826,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L66",
       "id": "protocols_neoclima_frames",
-      "community": 26,
+      "community": 22,
       "norm_label": "frames"
     },
     {
@@ -2826,7 +2835,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L68",
       "id": "protocols_neoclima_modulate",
-      "community": 26,
+      "community": 22,
       "norm_label": "modulate()"
     },
     {
@@ -2835,7 +2844,7 @@
       "source_file": "lib/ir/protocols/neoclima.ts",
       "source_location": "L76",
       "id": "protocols_neoclima_neoclima",
-      "community": 14,
+      "community": 52,
       "norm_label": "neoclima"
     },
     {
@@ -2844,7 +2853,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_electra_ac_ts",
-      "community": 119,
+      "community": 129,
       "norm_label": "electra_ac.ts"
     },
     {
@@ -2853,7 +2862,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L7",
       "id": "protocols_electra_ac_timing",
-      "community": 119,
+      "community": 129,
       "norm_label": "timing"
     },
     {
@@ -2862,7 +2871,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L17",
       "id": "protocols_electra_ac_mode",
-      "community": 119,
+      "community": 129,
       "norm_label": "mode"
     },
     {
@@ -2871,7 +2880,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L25",
       "id": "protocols_electra_ac_fan",
-      "community": 119,
+      "community": 129,
       "norm_label": "fan"
     },
     {
@@ -2880,7 +2889,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L32",
       "id": "protocols_electra_ac_checksum",
-      "community": 26,
+      "community": 129,
       "norm_label": "checksum()"
     },
     {
@@ -2889,7 +2898,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L36",
       "id": "protocols_electra_ac_valid",
-      "community": 26,
+      "community": 129,
       "norm_label": "valid()"
     },
     {
@@ -2898,7 +2907,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L40",
       "id": "protocols_electra_ac_build",
-      "community": 26,
+      "community": 19,
       "norm_label": "build()"
     },
     {
@@ -2907,7 +2916,7 @@
       "source_file": "lib/ir/protocols/electra_ac.ts",
       "source_location": "L57",
       "id": "protocols_electra_ac_parse",
-      "community": 22,
+      "community": 129,
       "norm_label": "parse()"
     },
     {
@@ -2961,7 +2970,7 @@
       "source_file": "lib/ir/protocols/teknopoint.ts",
       "source_location": "L22",
       "id": "protocols_teknopoint_teknopoint",
-      "community": 58,
+      "community": 136,
       "norm_label": "teknopoint"
     },
     {
@@ -3033,7 +3042,7 @@
       "source_file": "lib/ir/protocols/panasonic_ac32.ts",
       "source_location": "L58",
       "id": "protocols_panasonic_ac32_parse",
-      "community": 22,
+      "community": 27,
       "norm_label": "parse()"
     },
     {
@@ -3096,7 +3105,7 @@
       "source_file": "lib/ir/protocols/lg.ts",
       "source_location": "L4",
       "id": "protocols_lg_lg",
-      "community": 90,
+      "community": 61,
       "norm_label": "lg"
     },
     {
@@ -3222,7 +3231,7 @@
       "source_file": "lib/ir/protocols/whirlpool_ac.ts",
       "source_location": "L78",
       "id": "protocols_whirlpool_ac_parse",
-      "community": 22,
+      "community": 25,
       "norm_label": "parse()"
     },
     {
@@ -3339,7 +3348,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_ac.ts",
       "source_location": "L59",
       "id": "protocols_mitsubishi_ac_build",
-      "community": 89,
+      "community": 26,
       "norm_label": "build()"
     },
     {
@@ -3348,7 +3357,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_ac.ts",
       "source_location": "L89",
       "id": "protocols_mitsubishi_ac_parse",
-      "community": 22,
+      "community": 89,
       "norm_label": "parse()"
     },
     {
@@ -3429,7 +3438,7 @@
       "source_file": "lib/ir/protocols/amcor.ts",
       "source_location": "L61",
       "id": "protocols_amcor_parse",
-      "community": 22,
+      "community": 60,
       "norm_label": "parse()"
     },
     {
@@ -3456,7 +3465,7 @@
       "source_file": "lib/ir/protocols/neoclima.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_neoclima_test_ts",
-      "community": 14,
+      "community": 52,
       "norm_label": "neoclima.test.ts"
     },
     {
@@ -3465,7 +3474,7 @@
       "source_file": "lib/ir/protocols/neoclima.test.ts",
       "source_location": "L8",
       "id": "protocols_neoclima_test_base",
-      "community": 14,
+      "community": 52,
       "norm_label": "base"
     },
     {
@@ -3474,7 +3483,7 @@
       "source_file": "lib/ir/protocols/neoclima.test.ts",
       "source_location": "L18",
       "id": "protocols_neoclima_test_want",
-      "community": 14,
+      "community": 52,
       "norm_label": "want"
     },
     {
@@ -3483,7 +3492,7 @@
       "source_file": "lib/ir/protocols/neoclima.test.ts",
       "source_location": "L26",
       "id": "protocols_neoclima_test_b",
-      "community": 14,
+      "community": 52,
       "norm_label": "b"
     },
     {
@@ -3492,7 +3501,7 @@
       "source_file": "lib/ir/protocols/neoclima.test.ts",
       "source_location": "L35",
       "id": "protocols_neoclima_test_raw",
-      "community": 14,
+      "community": 52,
       "norm_label": "raw"
     },
     {
@@ -3591,7 +3600,7 @@
       "source_file": "lib/ir/protocols/mitsubishi136.ts",
       "source_location": "L74",
       "id": "protocols_mitsubishi136_mitsubishi136",
-      "community": 58,
+      "community": 14,
       "norm_label": "mitsubishi136"
     },
     {
@@ -3600,7 +3609,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_lg_test_ts",
-      "community": 90,
+      "community": 61,
       "norm_label": "lg.test.ts"
     },
     {
@@ -3609,7 +3618,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L11",
       "id": "protocols_lg_test_base",
-      "community": 90,
+      "community": 61,
       "norm_label": "base"
     },
     {
@@ -3618,7 +3627,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L29",
       "id": "protocols_lg_test_pulses",
-      "community": 90,
+      "community": 61,
       "norm_label": "pulses"
     },
     {
@@ -3627,7 +3636,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L39",
       "id": "protocols_lg_test_b",
-      "community": 90,
+      "community": 61,
       "norm_label": "b"
     },
     {
@@ -3636,7 +3645,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L55",
       "id": "protocols_lg_test_commands",
-      "community": 90,
+      "community": 61,
       "norm_label": "{ commands }"
     },
     {
@@ -3645,7 +3654,7 @@
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L56",
       "id": "protocols_lg_test_want",
-      "community": 90,
+      "community": 61,
       "norm_label": "want"
     },
     {
@@ -3654,7 +3663,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_daikin128_test_ts",
-      "community": 53,
+      "community": 100,
       "norm_label": "daikin128.test.ts"
     },
     {
@@ -3663,7 +3672,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L7",
       "id": "protocols_daikin128_test_base",
-      "community": 53,
+      "community": 100,
       "norm_label": "base"
     },
     {
@@ -3672,7 +3681,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L10",
       "id": "protocols_daikin128_test_want",
-      "community": 53,
+      "community": 100,
       "norm_label": "want"
     },
     {
@@ -3681,7 +3690,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L26",
       "id": "protocols_daikin128_test_b",
-      "community": 53,
+      "community": 100,
       "norm_label": "b"
     },
     {
@@ -3690,7 +3699,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L32",
       "id": "protocols_daikin128_test_tempmode",
-      "community": 53,
+      "community": 100,
       "norm_label": "tempmode"
     },
     {
@@ -3699,7 +3708,7 @@
       "source_file": "lib/ir/protocols/daikin128.test.ts",
       "source_location": "L58",
       "id": "protocols_daikin128_test_realexample",
-      "community": 53,
+      "community": 100,
       "norm_label": "realexample"
     },
     {
@@ -3708,7 +3717,7 @@
       "source_file": "lib/ir/protocols/airwell.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_airwell_test_ts",
-      "community": 76,
+      "community": 16,
       "norm_label": "airwell.test.ts"
     },
     {
@@ -3717,7 +3726,7 @@
       "source_file": "lib/ir/protocols/airwell.test.ts",
       "source_location": "L8",
       "id": "protocols_airwell_test_base",
-      "community": 76,
+      "community": 16,
       "norm_label": "base"
     },
     {
@@ -3726,7 +3735,7 @@
       "source_file": "lib/ir/protocols/airwell.test.ts",
       "source_location": "L11",
       "id": "protocols_airwell_test_want",
-      "community": 76,
+      "community": 16,
       "norm_label": "want"
     },
     {
@@ -3735,7 +3744,7 @@
       "source_file": "lib/ir/protocols/airwell.test.ts",
       "source_location": "L26",
       "id": "protocols_airwell_test_b",
-      "community": 76,
+      "community": 16,
       "norm_label": "b"
     },
     {
@@ -3744,7 +3753,7 @@
       "source_file": "lib/ir/protocols/airwell.test.ts",
       "source_location": "L35",
       "id": "protocols_airwell_test_raw",
-      "community": 76,
+      "community": 16,
       "norm_label": "raw"
     },
     {
@@ -3780,7 +3789,7 @@
       "source_file": "lib/ir/protocols/transcold.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_transcold_test_ts",
-      "community": 58,
+      "community": 137,
       "norm_label": "transcold.test.ts"
     },
     {
@@ -3789,7 +3798,7 @@
       "source_file": "lib/ir/protocols/transcold.test.ts",
       "source_location": "L9",
       "id": "protocols_transcold_test_raw",
-      "community": 58,
+      "community": 137,
       "norm_label": "raw"
     },
     {
@@ -3798,7 +3807,7 @@
       "source_file": "lib/ir/protocols/transcold.test.ts",
       "source_location": "L10",
       "id": "protocols_transcold_test_base",
-      "community": 58,
+      "community": 137,
       "norm_label": "base"
     },
     {
@@ -3807,7 +3816,7 @@
       "source_file": "lib/ir/protocols/transcold.test.ts",
       "source_location": "L30",
       "id": "protocols_transcold_test_pulses",
-      "community": 58,
+      "community": 137,
       "norm_label": "pulses"
     },
     {
@@ -3924,7 +3933,7 @@
       "source_file": "lib/ir/protocols/mitsubishi112.ts",
       "source_location": "L85",
       "id": "protocols_mitsubishi112_mitsubishi112",
-      "community": 69,
+      "community": 58,
       "norm_label": "mitsubishi112"
     },
     {
@@ -3978,7 +3987,7 @@
       "source_file": "lib/ir/protocols/tcl112ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_tcl112ac_test_ts",
-      "community": 76,
+      "community": 58,
       "norm_label": "tcl112ac.test.ts"
     },
     {
@@ -3987,7 +3996,7 @@
       "source_file": "lib/ir/protocols/tcl112ac.test.ts",
       "source_location": "L10",
       "id": "protocols_tcl112ac_test_base",
-      "community": 76,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -3996,7 +4005,7 @@
       "source_file": "lib/ir/protocols/tcl112ac.test.ts",
       "source_location": "L20",
       "id": "protocols_tcl112ac_test_b",
-      "community": 76,
+      "community": 58,
       "norm_label": "b"
     },
     {
@@ -4104,7 +4113,7 @@
       "source_file": "lib/ir/protocols/truma.ts",
       "source_location": "L56",
       "id": "protocols_truma_parse",
-      "community": 73,
+      "community": 54,
       "norm_label": "parse()"
     },
     {
@@ -4140,7 +4149,7 @@
       "source_file": "lib/ir/protocols/truma.ts",
       "source_location": "L95",
       "id": "protocols_truma_truma",
-      "community": 58,
+      "community": 73,
       "norm_label": "truma"
     },
     {
@@ -4149,7 +4158,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_heavy_152.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_mitsubishi_heavy_152_test_ts",
-      "community": 135,
+      "community": 58,
       "norm_label": "mitsubishi_heavy_152.test.ts"
     },
     {
@@ -4158,7 +4167,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_heavy_152.test.ts",
       "source_location": "L10",
       "id": "protocols_mitsubishi_heavy_152_test_base",
-      "community": 135,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -4167,7 +4176,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_heavy_152.test.ts",
       "source_location": "L19",
       "id": "protocols_mitsubishi_heavy_152_test_b",
-      "community": 135,
+      "community": 58,
       "norm_label": "b"
     },
     {
@@ -4248,7 +4257,7 @@
       "source_file": "lib/ir/protocols/mirage.ts",
       "source_location": "L56",
       "id": "protocols_mirage_kkg29",
-      "community": 22,
+      "community": 51,
       "norm_label": "kkg29()"
     },
     {
@@ -4266,7 +4275,7 @@
       "source_file": "lib/ir/protocols/mirage.ts",
       "source_location": "L92",
       "id": "protocols_mirage_parse",
-      "community": 22,
+      "community": 51,
       "norm_label": "parse()"
     },
     {
@@ -4284,7 +4293,7 @@
       "source_file": "lib/ir/protocols/mirage.ts",
       "source_location": "L126",
       "id": "protocols_mirage_mirage",
-      "community": 51,
+      "community": 130,
       "norm_label": "mirage"
     },
     {
@@ -4455,7 +4464,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_sanyo_ac_test_ts",
-      "community": 58,
+      "community": 135,
       "norm_label": "sanyo_ac.test.ts"
     },
     {
@@ -4464,7 +4473,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.test.ts",
       "source_location": "L9",
       "id": "protocols_sanyo_ac_test_raw",
-      "community": 58,
+      "community": 135,
       "norm_label": "raw"
     },
     {
@@ -4473,7 +4482,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.test.ts",
       "source_location": "L10",
       "id": "protocols_sanyo_ac_test_base",
-      "community": 58,
+      "community": 135,
       "norm_label": "base"
     },
     {
@@ -4482,7 +4491,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.test.ts",
       "source_location": "L24",
       "id": "protocols_sanyo_ac_test_b",
-      "community": 58,
+      "community": 135,
       "norm_label": "b"
     },
     {
@@ -4491,7 +4500,7 @@
       "source_file": "lib/ir/protocols/midea.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_midea_test_ts",
-      "community": 92,
+      "community": 58,
       "norm_label": "midea.test.ts"
     },
     {
@@ -4500,7 +4509,7 @@
       "source_file": "lib/ir/protocols/midea.test.ts",
       "source_location": "L10",
       "id": "protocols_midea_test_base",
-      "community": 92,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -4509,7 +4518,7 @@
       "source_file": "lib/ir/protocols/midea.test.ts",
       "source_location": "L25",
       "id": "protocols_midea_test_pulses",
-      "community": 92,
+      "community": 58,
       "norm_label": "pulses"
     },
     {
@@ -4518,7 +4527,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_hitachi_ac_ts",
-      "community": 86,
+      "community": 128,
       "norm_label": "hitachi_ac.ts"
     },
     {
@@ -4527,7 +4536,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L8",
       "id": "protocols_hitachi_ac_timing",
-      "community": 86,
+      "community": 128,
       "norm_label": "timing"
     },
     {
@@ -4536,7 +4545,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L12",
       "id": "protocols_hitachi_ac_mode",
-      "community": 86,
+      "community": 128,
       "norm_label": "mode"
     },
     {
@@ -4545,7 +4554,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L20",
       "id": "protocols_hitachi_ac_fan",
-      "community": 86,
+      "community": 128,
       "norm_label": "fan"
     },
     {
@@ -4554,7 +4563,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L28",
       "id": "protocols_hitachi_ac_checksum",
-      "community": 86,
+      "community": 128,
       "norm_label": "checksum()"
     },
     {
@@ -4563,7 +4572,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L34",
       "id": "protocols_hitachi_ac_build",
-      "community": 86,
+      "community": 128,
       "norm_label": "build()"
     },
     {
@@ -4572,7 +4581,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L54",
       "id": "protocols_hitachi_ac_parse",
-      "community": 86,
+      "community": 128,
       "norm_label": "parse()"
     },
     {
@@ -4581,7 +4590,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac.ts",
       "source_location": "L65",
       "id": "protocols_hitachi_ac_valid",
-      "community": 86,
+      "community": 128,
       "norm_label": "valid()"
     },
     {
@@ -4716,7 +4725,7 @@
       "source_file": "lib/ir/protocols/gree.ts",
       "source_location": "L139",
       "id": "protocols_gree_gree",
-      "community": 70,
+      "community": 65,
       "norm_label": "gree"
     },
     {
@@ -4833,7 +4842,7 @@
       "source_file": "lib/ir/protocols/daikin176.ts",
       "source_location": "L46",
       "id": "protocols_daikin176_parse",
-      "community": 22,
+      "community": 75,
       "norm_label": "parse()"
     },
     {
@@ -4977,7 +4986,7 @@
       "source_file": "lib/ir/protocols/daikin152.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_daikin152_ts",
-      "community": 19,
+      "community": 71,
       "norm_label": "daikin152.ts"
     },
     {
@@ -4986,7 +4995,7 @@
       "source_file": "lib/ir/protocols/daikin152.ts",
       "source_location": "L7",
       "id": "protocols_daikin152_bit",
-      "community": 19,
+      "community": 71,
       "norm_label": "bit"
     },
     {
@@ -4995,7 +5004,7 @@
       "source_file": "lib/ir/protocols/daikin152.ts",
       "source_location": "L8",
       "id": "protocols_daikin152_frame",
-      "community": 19,
+      "community": 71,
       "norm_label": "frame"
     },
     {
@@ -5013,7 +5022,7 @@
       "source_file": "lib/ir/protocols/daikin152.ts",
       "source_location": "L25",
       "id": "protocols_daikin152_parse",
-      "community": 22,
+      "community": 71,
       "norm_label": "parse()"
     },
     {
@@ -5022,7 +5031,7 @@
       "source_file": "lib/ir/protocols/daikin152.ts",
       "source_location": "L38",
       "id": "protocols_daikin152_valid",
-      "community": 52,
+      "community": 71,
       "norm_label": "valid()"
     },
     {
@@ -5040,7 +5049,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_hitachi_ac424_test_ts",
-      "community": 97,
+      "community": 76,
       "norm_label": "hitachi_ac424.test.ts"
     },
     {
@@ -5049,7 +5058,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L7",
       "id": "protocols_hitachi_ac424_test_base",
-      "community": 97,
+      "community": 76,
       "norm_label": "base"
     },
     {
@@ -5058,7 +5067,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L10",
       "id": "protocols_hitachi_ac424_test_realexample",
-      "community": 97,
+      "community": 76,
       "norm_label": "realexample"
     },
     {
@@ -5067,7 +5076,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L14",
       "id": "protocols_hitachi_ac424_test_raw",
-      "community": 97,
+      "community": 76,
       "norm_label": "raw"
     },
     {
@@ -5076,7 +5085,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L77",
       "id": "protocols_hitachi_ac424_test_b",
-      "community": 97,
+      "community": 76,
       "norm_label": "b"
     },
     {
@@ -5085,7 +5094,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.test.ts",
       "source_location": "L99",
       "id": "protocols_hitachi_ac424_test_s",
-      "community": 97,
+      "community": 76,
       "norm_label": "s"
     },
     {
@@ -5652,7 +5661,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.ts",
       "source_location": "L38",
       "id": "protocols_trotec_3550_build",
-      "community": 26,
+      "community": 67,
       "norm_label": "build()"
     },
     {
@@ -5661,7 +5670,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.ts",
       "source_location": "L52",
       "id": "protocols_trotec_3550_parse",
-      "community": 22,
+      "community": 67,
       "norm_label": "parse()"
     },
     {
@@ -5688,7 +5697,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.ts",
       "source_location": "L67",
       "id": "protocols_trotec_3550_trotec3550",
-      "community": 133,
+      "community": 67,
       "norm_label": "trotec3550"
     },
     {
@@ -5697,7 +5706,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_delonghi_ac_ts",
-      "community": 26,
+      "community": 125,
       "norm_label": "delonghi_ac.ts"
     },
     {
@@ -5706,7 +5715,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L7",
       "id": "protocols_delonghi_ac_timing",
-      "community": 26,
+      "community": 125,
       "norm_label": "timing"
     },
     {
@@ -5715,7 +5724,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L17",
       "id": "protocols_delonghi_ac_mode",
-      "community": 26,
+      "community": 125,
       "norm_label": "mode"
     },
     {
@@ -5724,7 +5733,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L24",
       "id": "protocols_delonghi_ac_fan",
-      "community": 26,
+      "community": 125,
       "norm_label": "fan"
     },
     {
@@ -5742,7 +5751,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L48",
       "id": "protocols_delonghi_ac_parse",
-      "community": 22,
+      "community": 125,
       "norm_label": "parse()"
     },
     {
@@ -5751,7 +5760,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L61",
       "id": "protocols_delonghi_ac_valid",
-      "community": 26,
+      "community": 125,
       "norm_label": "valid()"
     },
     {
@@ -5760,7 +5769,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.ts",
       "source_location": "L63",
       "id": "protocols_delonghi_ac_delonghiac",
-      "community": 129,
+      "community": 92,
       "norm_label": "delonghiac"
     },
     {
@@ -5841,7 +5850,7 @@
       "source_file": "lib/ir/protocols/goodweather.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_goodweather_test_ts",
-      "community": 14,
+      "community": 92,
       "norm_label": "goodweather.test.ts"
     },
     {
@@ -5850,7 +5859,7 @@
       "source_file": "lib/ir/protocols/goodweather.test.ts",
       "source_location": "L8",
       "id": "protocols_goodweather_test_base",
-      "community": 14,
+      "community": 92,
       "norm_label": "base"
     },
     {
@@ -5859,7 +5868,7 @@
       "source_file": "lib/ir/protocols/goodweather.test.ts",
       "source_location": "L11",
       "id": "protocols_goodweather_test_want",
-      "community": 14,
+      "community": 92,
       "norm_label": "want"
     },
     {
@@ -5868,7 +5877,7 @@
       "source_file": "lib/ir/protocols/goodweather.test.ts",
       "source_location": "L19",
       "id": "protocols_goodweather_test_b",
-      "community": 14,
+      "community": 92,
       "norm_label": "b"
     },
     {
@@ -5877,7 +5886,7 @@
       "source_file": "lib/ir/protocols/goodweather.test.ts",
       "source_location": "L28",
       "id": "protocols_goodweather_test_raw",
-      "community": 14,
+      "community": 92,
       "norm_label": "raw"
     },
     {
@@ -6084,7 +6093,7 @@
       "source_file": "lib/ir/protocols/airwell.ts",
       "source_location": "L119",
       "id": "protocols_airwell_airwell",
-      "community": 76,
+      "community": 16,
       "norm_label": "airwell"
     },
     {
@@ -6156,7 +6165,7 @@
       "source_file": "lib/ir/protocols/teco.ts",
       "source_location": "L61",
       "id": "protocols_teco_parse",
-      "community": 22,
+      "community": 74,
       "norm_label": "parse()"
     },
     {
@@ -6192,7 +6201,7 @@
       "source_file": "lib/ir/protocols/teco.ts",
       "source_location": "L98",
       "id": "protocols_teco_teco",
-      "community": 58,
+      "community": 92,
       "norm_label": "teco"
     },
     {
@@ -6354,7 +6363,7 @@
       "source_file": "lib/ir/protocols/daikin64.ts",
       "source_location": "L14",
       "id": "protocols_daikin64_build",
-      "community": 53,
+      "community": 19,
       "norm_label": "build()"
     },
     {
@@ -6363,7 +6372,7 @@
       "source_file": "lib/ir/protocols/daikin64.ts",
       "source_location": "L27",
       "id": "protocols_daikin64_parse",
-      "community": 22,
+      "community": 53,
       "norm_label": "parse()"
     },
     {
@@ -6417,7 +6426,7 @@
       "source_file": "lib/ir/protocols/daikin128.ts",
       "source_location": "L15",
       "id": "protocols_daikin128_build",
-      "community": 19,
+      "community": 53,
       "norm_label": "build()"
     },
     {
@@ -6426,7 +6435,7 @@
       "source_file": "lib/ir/protocols/daikin128.ts",
       "source_location": "L35",
       "id": "protocols_daikin128_parse",
-      "community": 22,
+      "community": 53,
       "norm_label": "parse()"
     },
     {
@@ -6444,7 +6453,7 @@
       "source_file": "lib/ir/protocols/daikin128.ts",
       "source_location": "L51",
       "id": "protocols_daikin128_daikin128",
-      "community": 53,
+      "community": 100,
       "norm_label": "daikin128"
     },
     {
@@ -6678,7 +6687,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_haier_ac_ts",
-      "community": 29,
+      "community": 26,
       "norm_label": "haier_ac.ts"
     },
     {
@@ -6687,7 +6696,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L11",
       "id": "protocols_haier_ac_mode",
-      "community": 29,
+      "community": 26,
       "norm_label": "mode"
     },
     {
@@ -6696,7 +6705,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L19",
       "id": "protocols_haier_ac_fan",
-      "community": 29,
+      "community": 26,
       "norm_label": "fan"
     },
     {
@@ -6705,7 +6714,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L26",
       "id": "protocols_haier_ac_swingv",
-      "community": 29,
+      "community": 26,
       "norm_label": "swingv"
     },
     {
@@ -6723,7 +6732,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L48",
       "id": "protocols_haier_ac_parse",
-      "community": 29,
+      "community": 51,
       "norm_label": "parse()"
     },
     {
@@ -6732,7 +6741,7 @@
       "source_file": "lib/ir/protocols/haier_ac.ts",
       "source_location": "L59",
       "id": "protocols_haier_ac_valid",
-      "community": 29,
+      "community": 26,
       "norm_label": "valid()"
     },
     {
@@ -6750,7 +6759,7 @@
       "source_file": "lib/ir/protocols/bosch144.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_bosch144_test_ts",
-      "community": 92,
+      "community": 133,
       "norm_label": "bosch144.test.ts"
     },
     {
@@ -6759,7 +6768,7 @@
       "source_file": "lib/ir/protocols/bosch144.test.ts",
       "source_location": "L8",
       "id": "protocols_bosch144_test_base",
-      "community": 92,
+      "community": 133,
       "norm_label": "base"
     },
     {
@@ -6768,7 +6777,7 @@
       "source_file": "lib/ir/protocols/bosch144.test.ts",
       "source_location": "L11",
       "id": "protocols_bosch144_test_want",
-      "community": 92,
+      "community": 133,
       "norm_label": "want"
     },
     {
@@ -6777,7 +6786,7 @@
       "source_file": "lib/ir/protocols/bosch144.test.ts",
       "source_location": "L23",
       "id": "protocols_bosch144_test_b",
-      "community": 92,
+      "community": 133,
       "norm_label": "b"
     },
     {
@@ -6786,7 +6795,7 @@
       "source_file": "lib/ir/protocols/bosch144.test.ts",
       "source_location": "L33",
       "id": "protocols_bosch144_test_raw",
-      "community": 92,
+      "community": 133,
       "norm_label": "raw"
     },
     {
@@ -6921,7 +6930,7 @@
       "source_file": "lib/ir/protocols/transcold.ts",
       "source_location": "L134",
       "id": "protocols_transcold_transcold",
-      "community": 58,
+      "community": 137,
       "norm_label": "transcold"
     },
     {
@@ -7002,7 +7011,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_sanyo_ac_ts",
-      "community": 60,
+      "community": 51,
       "norm_label": "sanyo_ac.ts"
     },
     {
@@ -7011,7 +7020,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L8",
       "id": "protocols_sanyo_ac_timing",
-      "community": 60,
+      "community": 51,
       "norm_label": "timing"
     },
     {
@@ -7020,7 +7029,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L18",
       "id": "protocols_sanyo_ac_template",
-      "community": 60,
+      "community": 51,
       "norm_label": "template"
     },
     {
@@ -7029,7 +7038,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L20",
       "id": "protocols_sanyo_ac_mode",
-      "community": 60,
+      "community": 51,
       "norm_label": "mode"
     },
     {
@@ -7038,7 +7047,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L27",
       "id": "protocols_sanyo_ac_fan",
-      "community": 60,
+      "community": 51,
       "norm_label": "fan"
     },
     {
@@ -7047,7 +7056,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L34",
       "id": "protocols_sanyo_ac_swing",
-      "community": 60,
+      "community": 51,
       "norm_label": "swing"
     },
     {
@@ -7065,7 +7074,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L57",
       "id": "protocols_sanyo_ac_parse",
-      "community": 22,
+      "community": 51,
       "norm_label": "parse()"
     },
     {
@@ -7074,7 +7083,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L70",
       "id": "protocols_sanyo_ac_valid",
-      "community": 60,
+      "community": 51,
       "norm_label": "valid()"
     },
     {
@@ -7083,7 +7092,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac.ts",
       "source_location": "L72",
       "id": "protocols_sanyo_ac_sanyoac",
-      "community": 58,
+      "community": 135,
       "norm_label": "sanyoac"
     },
     {
@@ -7092,7 +7101,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_eurom_ts",
-      "community": 51,
+      "community": 70,
       "norm_label": "eurom.ts"
     },
     {
@@ -7101,7 +7110,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L8",
       "id": "protocols_eurom_timing",
-      "community": 51,
+      "community": 70,
       "norm_label": "timing"
     },
     {
@@ -7110,7 +7119,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L19",
       "id": "protocols_eurom_mode",
-      "community": 51,
+      "community": 70,
       "norm_label": "mode"
     },
     {
@@ -7119,7 +7128,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L26",
       "id": "protocols_eurom_fan",
-      "community": 51,
+      "community": 70,
       "norm_label": "fan"
     },
     {
@@ -7128,7 +7137,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L32",
       "id": "protocols_eurom_bcd",
-      "community": 51,
+      "community": 70,
       "norm_label": "bcd()"
     },
     {
@@ -7137,7 +7146,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L36",
       "id": "protocols_eurom_modebyte",
-      "community": 51,
+      "community": 70,
       "norm_label": "modebyte()"
     },
     {
@@ -7146,7 +7155,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L42",
       "id": "protocols_eurom_checksum",
-      "community": 51,
+      "community": 70,
       "norm_label": "checksum()"
     },
     {
@@ -7155,7 +7164,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L46",
       "id": "protocols_eurom_build",
-      "community": 51,
+      "community": 70,
       "norm_label": "build()"
     },
     {
@@ -7164,7 +7173,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L65",
       "id": "protocols_eurom_parse",
-      "community": 51,
+      "community": 70,
       "norm_label": "parse()"
     },
     {
@@ -7173,7 +7182,7 @@
       "source_file": "lib/ir/protocols/eurom.ts",
       "source_location": "L83",
       "id": "protocols_eurom_valid",
-      "community": 51,
+      "community": 70,
       "norm_label": "valid()"
     },
     {
@@ -7227,7 +7236,7 @@
       "source_file": "lib/ir/protocols/truma.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_truma_test_ts",
-      "community": 58,
+      "community": 73,
       "norm_label": "truma.test.ts"
     },
     {
@@ -7236,7 +7245,7 @@
       "source_file": "lib/ir/protocols/truma.test.ts",
       "source_location": "L9",
       "id": "protocols_truma_test_raw",
-      "community": 58,
+      "community": 73,
       "norm_label": "raw"
     },
     {
@@ -7245,7 +7254,7 @@
       "source_file": "lib/ir/protocols/truma.test.ts",
       "source_location": "L10",
       "id": "protocols_truma_test_base",
-      "community": 58,
+      "community": 73,
       "norm_label": "base"
     },
     {
@@ -7254,7 +7263,7 @@
       "source_file": "lib/ir/protocols/truma.test.ts",
       "source_location": "L27",
       "id": "protocols_truma_test_b",
-      "community": 58,
+      "community": 73,
       "norm_label": "b"
     },
     {
@@ -7515,7 +7524,7 @@
       "source_file": "lib/ir/protocols/goodweather.ts",
       "source_location": "L53",
       "id": "protocols_goodweather_parse",
-      "community": 22,
+      "community": 119,
       "norm_label": "parse()"
     },
     {
@@ -7551,7 +7560,7 @@
       "source_file": "lib/ir/protocols/goodweather.ts",
       "source_location": "L109",
       "id": "protocols_goodweather_goodweather",
-      "community": 14,
+      "community": 92,
       "norm_label": "goodweather"
     },
     {
@@ -7650,7 +7659,7 @@
       "source_file": "lib/ir/protocols/kelvinator.ts",
       "source_location": "L87",
       "id": "protocols_kelvinator_parse",
-      "community": 22,
+      "community": 66,
       "norm_label": "parse()"
     },
     {
@@ -7695,7 +7704,7 @@
       "source_file": "lib/ir/protocols/kelvinator.ts",
       "source_location": "L147",
       "id": "protocols_kelvinator_kelvinator",
-      "community": 66,
+      "community": 92,
       "norm_label": "kelvinator"
     },
     {
@@ -7704,7 +7713,7 @@
       "source_file": "lib/ir/protocols/mitsubishi136.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_mitsubishi136_test_ts",
-      "community": 58,
+      "community": 14,
       "norm_label": "mitsubishi136.test.ts"
     },
     {
@@ -7713,7 +7722,7 @@
       "source_file": "lib/ir/protocols/mitsubishi136.test.ts",
       "source_location": "L10",
       "id": "protocols_mitsubishi136_test_base",
-      "community": 58,
+      "community": 14,
       "norm_label": "base"
     },
     {
@@ -7722,7 +7731,7 @@
       "source_file": "lib/ir/protocols/mitsubishi136.test.ts",
       "source_location": "L19",
       "id": "protocols_mitsubishi136_test_b",
-      "community": 58,
+      "community": 14,
       "norm_label": "b"
     },
     {
@@ -7812,7 +7821,7 @@
       "source_file": "lib/ir/protocols/haier_ac176.ts",
       "source_location": "L18",
       "id": "protocols_haier_ac176_valid",
-      "community": 20,
+      "community": 26,
       "norm_label": "valid()"
     },
     {
@@ -8037,7 +8046,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac1.ts",
       "source_location": "L60",
       "id": "protocols_hitachi_ac1_parse",
-      "community": 22,
+      "community": 128,
       "norm_label": "parse()"
     },
     {
@@ -8064,7 +8073,7 @@
       "source_file": "lib/ir/protocols/_mitsubishi_heavy.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_mitsubishi_heavy_ts",
-      "community": 60,
+      "community": 59,
       "norm_label": "_mitsubishi_heavy.ts"
     },
     {
@@ -8073,7 +8082,7 @@
       "source_file": "lib/ir/protocols/_mitsubishi_heavy.ts",
       "source_location": "L4",
       "id": "protocols_mitsubishi_heavy_heavytiming",
-      "community": 60,
+      "community": 59,
       "norm_label": "heavytiming"
     },
     {
@@ -8082,7 +8091,7 @@
       "source_file": "lib/ir/protocols/_mitsubishi_heavy.ts",
       "source_location": "L14",
       "id": "protocols_mitsubishi_heavy_invertpairs",
-      "community": 19,
+      "community": 59,
       "norm_label": "invertpairs()"
     },
     {
@@ -8100,7 +8109,7 @@
       "source_file": "lib/ir/protocols/_mitsubishi_heavy.ts",
       "source_location": "L23",
       "id": "protocols_mitsubishi_heavy_heavyframes",
-      "community": 60,
+      "community": 59,
       "norm_label": "heavyframes()"
     },
     {
@@ -8109,7 +8118,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_kelon_ts",
-      "community": 60,
+      "community": 52,
       "norm_label": "kelon.ts"
     },
     {
@@ -8118,7 +8127,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L9",
       "id": "protocols_kelon_timing",
-      "community": 60,
+      "community": 52,
       "norm_label": "timing"
     },
     {
@@ -8127,7 +8136,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L19",
       "id": "protocols_kelon_mode",
-      "community": 60,
+      "community": 52,
       "norm_label": "mode"
     },
     {
@@ -8136,7 +8145,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L27",
       "id": "protocols_kelon_fan",
-      "community": 60,
+      "community": 52,
       "norm_label": "fan"
     },
     {
@@ -8145,7 +8154,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L34",
       "id": "protocols_kelon_wirefan",
-      "community": 22,
+      "community": 54,
       "norm_label": "wirefan()"
     },
     {
@@ -8163,7 +8172,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L63",
       "id": "protocols_kelon_parse",
-      "community": 22,
+      "community": 54,
       "norm_label": "parse()"
     },
     {
@@ -8172,7 +8181,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L77",
       "id": "protocols_kelon_valid",
-      "community": 60,
+      "community": 52,
       "norm_label": "valid()"
     },
     {
@@ -8181,7 +8190,7 @@
       "source_file": "lib/ir/protocols/kelon.ts",
       "source_location": "L79",
       "id": "protocols_kelon_kelon",
-      "community": 16,
+      "community": 52,
       "norm_label": "kelon"
     },
     {
@@ -8190,7 +8199,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_delonghi_ac_test_ts",
-      "community": 129,
+      "community": 92,
       "norm_label": "delonghi_ac.test.ts"
     },
     {
@@ -8199,7 +8208,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.test.ts",
       "source_location": "L8",
       "id": "protocols_delonghi_ac_test_base",
-      "community": 129,
+      "community": 92,
       "norm_label": "base"
     },
     {
@@ -8208,7 +8217,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.test.ts",
       "source_location": "L11",
       "id": "protocols_delonghi_ac_test_want",
-      "community": 129,
+      "community": 92,
       "norm_label": "want"
     },
     {
@@ -8217,7 +8226,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.test.ts",
       "source_location": "L22",
       "id": "protocols_delonghi_ac_test_b",
-      "community": 129,
+      "community": 92,
       "norm_label": "b"
     },
     {
@@ -8226,7 +8235,7 @@
       "source_file": "lib/ir/protocols/delonghi_ac.test.ts",
       "source_location": "L31",
       "id": "protocols_delonghi_ac_test_raw",
-      "community": 129,
+      "community": 92,
       "norm_label": "raw"
     },
     {
@@ -8316,7 +8325,7 @@
       "source_file": "lib/ir/protocols/mitsubishi_heavy_152.ts",
       "source_location": "L84",
       "id": "protocols_mitsubishi_heavy_152_mitsubishiheavy152",
-      "community": 135,
+      "community": 58,
       "norm_label": "mitsubishiheavy152"
     },
     {
@@ -8460,7 +8469,7 @@
       "source_file": "lib/ir/protocols/airton.ts",
       "source_location": "L38",
       "id": "protocols_airton_build",
-      "community": 23,
+      "community": 19,
       "norm_label": "build()"
     },
     {
@@ -8469,7 +8478,7 @@
       "source_file": "lib/ir/protocols/airton.ts",
       "source_location": "L60",
       "id": "protocols_airton_parse",
-      "community": 22,
+      "community": 23,
       "norm_label": "parse()"
     },
     {
@@ -8496,7 +8505,7 @@
       "source_file": "lib/ir/protocols/daikin.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_daikin_ts_lib_ir_protocols_daikin_ts",
-      "community": 100,
+      "community": 53,
       "norm_label": "daikin.ts"
     },
     {
@@ -8505,7 +8514,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L7",
       "id": "protocols_daikin_mode3",
-      "community": 93,
+      "community": 84,
       "norm_label": "mode3"
     },
     {
@@ -8532,7 +8541,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L35",
       "id": "protocols_daikin_swingv2",
-      "community": 100,
+      "community": 79,
       "norm_label": "swingv2"
     },
     {
@@ -8541,7 +8550,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L46",
       "id": "protocols_daikin_swingh2",
-      "community": 100,
+      "community": 79,
       "norm_label": "swingh2"
     },
     {
@@ -8631,7 +8640,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L151",
       "id": "protocols_daikin_frombcd",
-      "community": 22,
+      "community": 53,
       "norm_label": "frombcd()"
     },
     {
@@ -8649,7 +8658,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L164",
       "id": "protocols_daikin_sealed",
-      "community": 52,
+      "community": 75,
       "norm_label": "sealed()"
     },
     {
@@ -8658,7 +8667,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L173",
       "id": "protocols_daikin_bittiming",
-      "community": 100,
+      "community": 53,
       "norm_label": "bittiming"
     },
     {
@@ -8667,7 +8676,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L179",
       "id": "protocols_daikin_frame",
-      "community": 100,
+      "community": 53,
       "norm_label": "frame"
     },
     {
@@ -8676,7 +8685,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L187",
       "id": "protocols_daikin_leader",
-      "community": 100,
+      "community": 53,
       "norm_label": "leader"
     },
     {
@@ -8685,7 +8694,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L192",
       "id": "protocols_daikin_astiming",
-      "community": 100,
+      "community": 53,
       "norm_label": "astiming()"
     },
     {
@@ -8694,7 +8703,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L204",
       "id": "protocols_daikin_concat",
-      "community": 100,
+      "community": 53,
       "norm_label": "concat()"
     },
     {
@@ -8721,7 +8730,7 @@
       "source_file": "lib/ir/protocols/_daikin.ts",
       "source_location": "L269",
       "id": "protocols_daikin_message",
-      "community": 84,
+      "community": 71,
       "norm_label": "message()"
     },
     {
@@ -8865,7 +8874,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_sharp_ac_test_ts",
-      "community": 12,
+      "community": 58,
       "norm_label": "sharp_ac.test.ts"
     },
     {
@@ -8874,7 +8883,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.test.ts",
       "source_location": "L10",
       "id": "protocols_sharp_ac_test_base",
-      "community": 12,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -8883,7 +8892,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.test.ts",
       "source_location": "L28",
       "id": "protocols_sharp_ac_test_a705",
-      "community": 12,
+      "community": 58,
       "norm_label": "a705"
     },
     {
@@ -8892,7 +8901,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.test.ts",
       "source_location": "L36",
       "id": "protocols_sharp_ac_test_b",
-      "community": 12,
+      "community": 58,
       "norm_label": "b"
     },
     {
@@ -8937,7 +8946,7 @@
       "source_file": "lib/ir/protocols/tcl112ac.ts",
       "source_location": "L21",
       "id": "protocols_tcl112ac_tcl112ac",
-      "community": 76,
+      "community": 58,
       "norm_label": "tcl112ac"
     },
     {
@@ -8946,7 +8955,7 @@
       "source_file": "lib/ir/protocols/daikin.ts",
       "source_location": "L7",
       "id": "protocols_daikin_bit",
-      "community": 100,
+      "community": 53,
       "norm_label": "bit"
     },
     {
@@ -8955,7 +8964,7 @@
       "source_file": "lib/ir/protocols/daikin.ts",
       "source_location": "L8",
       "id": "protocols_daikin_section",
-      "community": 100,
+      "community": 53,
       "norm_label": "section"
     },
     {
@@ -8982,7 +8991,7 @@
       "source_file": "lib/ir/protocols/daikin.ts",
       "source_location": "L35",
       "id": "protocols_daikin_parse",
-      "community": 22,
+      "community": 53,
       "norm_label": "parse()"
     },
     {
@@ -8991,7 +9000,7 @@
       "source_file": "lib/ir/protocols/daikin.ts",
       "source_location": "L50",
       "id": "protocols_daikin_valid",
-      "community": 52,
+      "community": 75,
       "norm_label": "valid()"
     },
     {
@@ -9009,7 +9018,7 @@
       "source_file": "lib/ir/protocols/kelon.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_kelon_test_ts",
-      "community": 16,
+      "community": 52,
       "norm_label": "kelon.test.ts"
     },
     {
@@ -9018,7 +9027,7 @@
       "source_file": "lib/ir/protocols/kelon.test.ts",
       "source_location": "L8",
       "id": "protocols_kelon_test_base",
-      "community": 16,
+      "community": 52,
       "norm_label": "base"
     },
     {
@@ -9027,7 +9036,7 @@
       "source_file": "lib/ir/protocols/kelon.test.ts",
       "source_location": "L11",
       "id": "protocols_kelon_test_want",
-      "community": 16,
+      "community": 52,
       "norm_label": "want"
     },
     {
@@ -9036,7 +9045,7 @@
       "source_file": "lib/ir/protocols/kelon.test.ts",
       "source_location": "L26",
       "id": "protocols_kelon_test_b",
-      "community": 16,
+      "community": 52,
       "norm_label": "b"
     },
     {
@@ -9144,7 +9153,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.ts",
       "source_location": "L86",
       "id": "protocols_sanyo_ac88_sanyoac88",
-      "community": 130,
+      "community": 58,
       "norm_label": "sanyoac88"
     },
     {
@@ -9153,7 +9162,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_toshiba_ac_test_ts",
-      "community": 132,
+      "community": 14,
       "norm_label": "toshiba_ac.test.ts"
     },
     {
@@ -9162,7 +9171,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.test.ts",
       "source_location": "L10",
       "id": "protocols_toshiba_ac_test_base",
-      "community": 132,
+      "community": 14,
       "norm_label": "base"
     },
     {
@@ -9171,7 +9180,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.test.ts",
       "source_location": "L14",
       "id": "protocols_toshiba_ac_test_b",
-      "community": 132,
+      "community": 14,
       "norm_label": "b"
     },
     {
@@ -9216,7 +9225,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.ts",
       "source_location": "L44",
       "id": "protocols_toshiba_ac_finish",
-      "community": 25,
+      "community": 19,
       "norm_label": "finish()"
     },
     {
@@ -9225,7 +9234,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.ts",
       "source_location": "L55",
       "id": "protocols_toshiba_ac_build",
-      "community": 25,
+      "community": 19,
       "norm_label": "build()"
     },
     {
@@ -9288,7 +9297,7 @@
       "source_file": "lib/ir/protocols/toshiba_ac.ts",
       "source_location": "L160",
       "id": "protocols_toshiba_ac_toshibaac",
-      "community": 132,
+      "community": 14,
       "norm_label": "toshibaac"
     },
     {
@@ -9414,7 +9423,7 @@
       "source_file": "lib/ir/protocols/york.ts",
       "source_location": "L68",
       "id": "protocols_york_parse",
-      "community": 22,
+      "community": 122,
       "norm_label": "parse()"
     },
     {
@@ -9432,7 +9441,7 @@
       "source_file": "lib/ir/protocols/york.ts",
       "source_location": "L85",
       "id": "protocols_york_york",
-      "community": 92,
+      "community": 122,
       "norm_label": "york"
     },
     {
@@ -9477,7 +9486,7 @@
       "source_file": "lib/ir/protocols/ecoclim.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_ecoclim_test_ts",
-      "community": 92,
+      "community": 16,
       "norm_label": "ecoclim.test.ts"
     },
     {
@@ -9486,7 +9495,7 @@
       "source_file": "lib/ir/protocols/ecoclim.test.ts",
       "source_location": "L8",
       "id": "protocols_ecoclim_test_base",
-      "community": 92,
+      "community": 16,
       "norm_label": "base"
     },
     {
@@ -9495,7 +9504,7 @@
       "source_file": "lib/ir/protocols/ecoclim.test.ts",
       "source_location": "L11",
       "id": "protocols_ecoclim_test_raw",
-      "community": 92,
+      "community": 16,
       "norm_label": "raw"
     },
     {
@@ -9504,7 +9513,7 @@
       "source_file": "lib/ir/protocols/ecoclim.test.ts",
       "source_location": "L19",
       "id": "protocols_ecoclim_test_b",
-      "community": 92,
+      "community": 16,
       "norm_label": "b"
     },
     {
@@ -9585,7 +9594,7 @@
       "source_file": "lib/ir/protocols/haier_ac_yrw02.ts",
       "source_location": "L17",
       "id": "protocols_haier_ac_yrw02_valid",
-      "community": 20,
+      "community": 26,
       "norm_label": "valid()"
     },
     {
@@ -9648,7 +9657,7 @@
       "source_file": "lib/ir/protocols/trotec.ts",
       "source_location": "L44",
       "id": "protocols_trotec_parse",
-      "community": 22,
+      "community": 82,
       "norm_label": "parse()"
     },
     {
@@ -9729,7 +9738,7 @@
       "source_file": "lib/ir/protocols/haier_ac160.ts",
       "source_location": "L42",
       "id": "protocols_haier_ac160_valid",
-      "community": 20,
+      "community": 26,
       "norm_label": "valid()"
     },
     {
@@ -9927,7 +9936,7 @@
       "source_file": "lib/ir/protocols/bosch144.ts",
       "source_location": "L157",
       "id": "protocols_bosch144_bosch144",
-      "community": 92,
+      "community": 133,
       "norm_label": "bosch144"
     },
     {
@@ -9936,7 +9945,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_corona_ac_test_ts",
-      "community": 33,
+      "community": 97,
       "norm_label": "corona_ac.test.ts"
     },
     {
@@ -9945,7 +9954,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L8",
       "id": "protocols_corona_ac_test_base",
-      "community": 33,
+      "community": 97,
       "norm_label": "base"
     },
     {
@@ -9954,7 +9963,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L11",
       "id": "protocols_corona_ac_test_want",
-      "community": 33,
+      "community": 97,
       "norm_label": "want"
     },
     {
@@ -9963,7 +9972,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L19",
       "id": "protocols_corona_ac_test_b",
-      "community": 33,
+      "community": 97,
       "norm_label": "b"
     },
     {
@@ -9972,7 +9981,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L20",
       "id": "protocols_corona_ac_test_pulses",
-      "community": 33,
+      "community": 97,
       "norm_label": "pulses"
     },
     {
@@ -9981,7 +9990,7 @@
       "source_file": "lib/ir/protocols/corona_ac.test.ts",
       "source_location": "L30",
       "id": "protocols_corona_ac_test_raw",
-      "community": 33,
+      "community": 97,
       "norm_label": "raw"
     },
     {
@@ -10134,7 +10143,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_mirage_test_ts",
-      "community": 51,
+      "community": 130,
       "norm_label": "mirage.test.ts"
     },
     {
@@ -10143,7 +10152,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L8",
       "id": "protocols_mirage_test_base",
-      "community": 51,
+      "community": 130,
       "norm_label": "base"
     },
     {
@@ -10152,7 +10161,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L11",
       "id": "protocols_mirage_test_want",
-      "community": 51,
+      "community": 130,
       "norm_label": "want"
     },
     {
@@ -10161,7 +10170,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L18",
       "id": "protocols_mirage_test_kkg9",
-      "community": 51,
+      "community": 130,
       "norm_label": "kkg9"
     },
     {
@@ -10170,7 +10179,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L19",
       "id": "protocols_mirage_test_kkg29",
-      "community": 51,
+      "community": 130,
       "norm_label": "kkg29"
     },
     {
@@ -10179,7 +10188,7 @@
       "source_file": "lib/ir/protocols/mirage.test.ts",
       "source_location": "L31",
       "id": "protocols_mirage_test_raw",
-      "community": 51,
+      "community": 130,
       "norm_label": "raw"
     },
     {
@@ -10251,7 +10260,7 @@
       "source_file": "lib/ir/protocols/_tcl.ts",
       "source_location": "L44",
       "id": "protocols_tcl_buildtcl",
-      "community": 125,
+      "community": 19,
       "norm_label": "buildtcl()"
     },
     {
@@ -10260,7 +10269,7 @@
       "source_file": "lib/ir/protocols/_tcl.ts",
       "source_location": "L66",
       "id": "protocols_tcl_parsetcl",
-      "community": 22,
+      "community": 60,
       "norm_label": "parsetcl()"
     },
     {
@@ -10386,7 +10395,7 @@
       "source_file": "lib/ir/protocols/fujitsu_ac.ts",
       "source_location": "L71",
       "id": "protocols_fujitsu_ac_parse",
-      "community": 22,
+      "community": 56,
       "norm_label": "parse()"
     },
     {
@@ -10467,7 +10476,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac296.ts",
       "source_location": "L42",
       "id": "protocols_hitachi_ac296_parse",
-      "community": 22,
+      "community": 5,
       "norm_label": "parse()"
     },
     {
@@ -10611,7 +10620,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.ts",
       "source_location": "L165",
       "id": "protocols_sharp_ac_parse",
-      "community": 22,
+      "community": 25,
       "norm_label": "parse()"
     },
     {
@@ -10629,7 +10638,7 @@
       "source_file": "lib/ir/protocols/sharp_ac.ts",
       "source_location": "L183",
       "id": "protocols_sharp_ac_sharpac",
-      "community": 12,
+      "community": 58,
       "norm_label": "sharpac"
     },
     {
@@ -10638,7 +10647,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_gree_test_ts",
-      "community": 70,
+      "community": 65,
       "norm_label": "gree.test.ts"
     },
     {
@@ -10647,7 +10656,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L11",
       "id": "protocols_gree_test_off",
-      "community": 70,
+      "community": 65,
       "norm_label": "off"
     },
     {
@@ -10656,7 +10665,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L12",
       "id": "protocols_gree_test_base",
-      "community": 70,
+      "community": 65,
       "norm_label": "base"
     },
     {
@@ -10665,7 +10674,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L23",
       "id": "protocols_gree_test_state",
-      "community": 70,
+      "community": 65,
       "norm_label": "state"
     },
     {
@@ -10674,7 +10683,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L34",
       "id": "protocols_gree_test_b",
-      "community": 70,
+      "community": 65,
       "norm_label": "b"
     },
     {
@@ -10683,7 +10692,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L40",
       "id": "protocols_gree_test_econo",
-      "community": 70,
+      "community": 65,
       "norm_label": "econo"
     },
     {
@@ -10692,7 +10701,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L46",
       "id": "protocols_gree_test_commands",
-      "community": 70,
+      "community": 65,
       "norm_label": "{ commands }"
     },
     {
@@ -10701,7 +10710,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L47",
       "id": "protocols_gree_test_lit",
-      "community": 70,
+      "community": 65,
       "norm_label": "lit"
     },
     {
@@ -10710,7 +10719,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L48",
       "id": "protocols_gree_test_want",
-      "community": 70,
+      "community": 65,
       "norm_label": "want"
     },
     {
@@ -10719,7 +10728,7 @@
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L56",
       "id": "protocols_gree_test_got",
-      "community": 70,
+      "community": 65,
       "norm_label": "got"
     },
     {
@@ -10863,7 +10872,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac344.ts",
       "source_location": "L39",
       "id": "protocols_hitachi_ac344_parse",
-      "community": 22,
+      "community": 5,
       "norm_label": "parse()"
     },
     {
@@ -10953,7 +10962,7 @@
       "source_file": "lib/ir/protocols/carrier_ac64.ts",
       "source_location": "L53",
       "id": "protocols_carrier_ac64_parse",
-      "community": 22,
+      "community": 51,
       "norm_label": "parse()"
     },
     {
@@ -11142,7 +11151,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_trotec_3550_test_ts",
-      "community": 133,
+      "community": 58,
       "norm_label": "trotec_3550.test.ts"
     },
     {
@@ -11151,7 +11160,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.test.ts",
       "source_location": "L9",
       "id": "protocols_trotec_3550_test_raw",
-      "community": 133,
+      "community": 58,
       "norm_label": "raw"
     },
     {
@@ -11160,7 +11169,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.test.ts",
       "source_location": "L10",
       "id": "protocols_trotec_3550_test_base",
-      "community": 133,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -11169,7 +11178,7 @@
       "source_file": "lib/ir/protocols/trotec_3550.test.ts",
       "source_location": "L19",
       "id": "protocols_trotec_3550_test_b",
-      "community": 133,
+      "community": 58,
       "norm_label": "b"
     },
     {
@@ -11205,7 +11214,7 @@
       "source_file": "lib/ir/protocols/daikin312.ts",
       "source_location": "L10",
       "id": "protocols_daikin312_template",
-      "community": 80,
+      "community": 79,
       "norm_label": "template()"
     },
     {
@@ -11223,7 +11232,7 @@
       "source_file": "lib/ir/protocols/daikin312.ts",
       "source_location": "L41",
       "id": "protocols_daikin312_parse",
-      "community": 22,
+      "community": 80,
       "norm_label": "parse()"
     },
     {
@@ -11232,7 +11241,7 @@
       "source_file": "lib/ir/protocols/daikin312.ts",
       "source_location": "L58",
       "id": "protocols_daikin312_valid",
-      "community": 52,
+      "community": 80,
       "norm_label": "valid()"
     },
     {
@@ -11358,7 +11367,7 @@
       "source_file": "lib/ir/protocols/daikin2.ts",
       "source_location": "L42",
       "id": "protocols_daikin2_parse",
-      "community": 22,
+      "community": 79,
       "norm_label": "parse()"
     },
     {
@@ -11367,7 +11376,7 @@
       "source_file": "lib/ir/protocols/daikin2.ts",
       "source_location": "L59",
       "id": "protocols_daikin2_valid",
-      "community": 52,
+      "community": 79,
       "norm_label": "valid()"
     },
     {
@@ -11709,7 +11718,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_technibel_ac_ts",
-      "community": 119,
+      "community": 132,
       "norm_label": "technibel_ac.ts"
     },
     {
@@ -11718,7 +11727,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L9",
       "id": "protocols_technibel_ac_timing",
-      "community": 119,
+      "community": 132,
       "norm_label": "timing"
     },
     {
@@ -11727,7 +11736,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L20",
       "id": "protocols_technibel_ac_mode",
-      "community": 119,
+      "community": 132,
       "norm_label": "mode"
     },
     {
@@ -11736,7 +11745,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L27",
       "id": "protocols_technibel_ac_fan",
-      "community": 119,
+      "community": 132,
       "norm_label": "fan"
     },
     {
@@ -11745,7 +11754,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L33",
       "id": "protocols_technibel_ac_checksum",
-      "community": 119,
+      "community": 132,
       "norm_label": "checksum()"
     },
     {
@@ -11763,7 +11772,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L52",
       "id": "protocols_technibel_ac_parse",
-      "community": 22,
+      "community": 132,
       "norm_label": "parse()"
     },
     {
@@ -11772,7 +11781,7 @@
       "source_file": "lib/ir/protocols/technibel_ac.ts",
       "source_location": "L64",
       "id": "protocols_technibel_ac_valid",
-      "community": 119,
+      "community": 132,
       "norm_label": "valid()"
     },
     {
@@ -11826,7 +11835,7 @@
       "source_file": "lib/ir/protocols/daikin216.ts",
       "source_location": "L24",
       "id": "protocols_daikin216_parse",
-      "community": 22,
+      "community": 84,
       "norm_label": "parse()"
     },
     {
@@ -11835,7 +11844,7 @@
       "source_file": "lib/ir/protocols/daikin216.ts",
       "source_location": "L36",
       "id": "protocols_daikin216_valid",
-      "community": 52,
+      "community": 84,
       "norm_label": "valid()"
     },
     {
@@ -12087,7 +12096,7 @@
       "source_file": "lib/ir/protocols/midea.ts",
       "source_location": "L57",
       "id": "protocols_midea_parse",
-      "community": 22,
+      "community": 78,
       "norm_label": "parse()"
     },
     {
@@ -12123,7 +12132,7 @@
       "source_file": "lib/ir/protocols/midea.ts",
       "source_location": "L106",
       "id": "protocols_midea_midea",
-      "community": 92,
+      "community": 58,
       "norm_label": "midea"
     },
     {
@@ -12132,7 +12141,7 @@
       "source_file": "lib/ir/protocols/teknopoint.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_teknopoint_test_ts",
-      "community": 58,
+      "community": 136,
       "norm_label": "teknopoint.test.ts"
     },
     {
@@ -12141,7 +12150,7 @@
       "source_file": "lib/ir/protocols/teknopoint.test.ts",
       "source_location": "L10",
       "id": "protocols_teknopoint_test_base",
-      "community": 58,
+      "community": 136,
       "norm_label": "base"
     },
     {
@@ -12150,7 +12159,7 @@
       "source_file": "lib/ir/protocols/teknopoint.test.ts",
       "source_location": "L23",
       "id": "protocols_teknopoint_test_b",
-      "community": 58,
+      "community": 136,
       "norm_label": "b"
     },
     {
@@ -12159,7 +12168,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.test.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_sanyo_ac88_test_ts",
-      "community": 130,
+      "community": 58,
       "norm_label": "sanyo_ac88.test.ts"
     },
     {
@@ -12168,7 +12177,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.test.ts",
       "source_location": "L9",
       "id": "protocols_sanyo_ac88_test_raw",
-      "community": 130,
+      "community": 58,
       "norm_label": "raw"
     },
     {
@@ -12177,7 +12186,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.test.ts",
       "source_location": "L10",
       "id": "protocols_sanyo_ac88_test_base",
-      "community": 130,
+      "community": 58,
       "norm_label": "base"
     },
     {
@@ -12186,7 +12195,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.test.ts",
       "source_location": "L24",
       "id": "protocols_sanyo_ac88_test_b",
-      "community": 130,
+      "community": 58,
       "norm_label": "b"
     },
     {
@@ -12195,7 +12204,7 @@
       "source_file": "lib/ir/protocols/sanyo_ac88.test.ts",
       "source_location": "L25",
       "id": "protocols_sanyo_ac88_test_pulses",
-      "community": 130,
+      "community": 58,
       "norm_label": "pulses"
     },
     {
@@ -12204,7 +12213,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L1",
       "id": "lib_ir_protocols_voltas_ts",
-      "community": 26,
+      "community": 90,
       "norm_label": "voltas.ts"
     },
     {
@@ -12213,7 +12222,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L8",
       "id": "protocols_voltas_timing",
-      "community": 26,
+      "community": 90,
       "norm_label": "timing"
     },
     {
@@ -12222,7 +12231,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L19",
       "id": "protocols_voltas_template",
-      "community": 26,
+      "community": 90,
       "norm_label": "template"
     },
     {
@@ -12231,7 +12240,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L23",
       "id": "protocols_voltas_mode",
-      "community": 26,
+      "community": 90,
       "norm_label": "mode"
     },
     {
@@ -12240,7 +12249,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L30",
       "id": "protocols_voltas_fan",
-      "community": 26,
+      "community": 90,
       "norm_label": "fan"
     },
     {
@@ -12258,7 +12267,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L62",
       "id": "protocols_voltas_parse",
-      "community": 22,
+      "community": 90,
       "norm_label": "parse()"
     },
     {
@@ -12267,7 +12276,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L78",
       "id": "protocols_voltas_valid",
-      "community": 26,
+      "community": 90,
       "norm_label": "valid()"
     },
     {
@@ -12276,7 +12285,7 @@
       "source_file": "lib/ir/protocols/voltas.ts",
       "source_location": "L80",
       "id": "protocols_voltas_frames",
-      "community": 26,
+      "community": 90,
       "norm_label": "frames"
     },
     {
@@ -12429,7 +12438,7 @@
       "source_file": "lib/ir/protocols/hitachi_ac424.ts",
       "source_location": "L49",
       "id": "protocols_hitachi_ac424_hitachiac424",
-      "community": 97,
+      "community": 76,
       "norm_label": "hitachiac424"
     },
     {
@@ -12519,7 +12528,7 @@
       "source_file": "lib/ir/protocols/kelon168.ts",
       "source_location": "L85",
       "id": "protocols_kelon168_parse",
-      "community": 22,
+      "community": 25,
       "norm_label": "parse()"
     },
     {
@@ -12600,7 +12609,7 @@
       "source_file": "lib/ir/protocols/daikin160.ts",
       "source_location": "L21",
       "id": "protocols_daikin160_parse",
-      "community": 22,
+      "community": 93,
       "norm_label": "parse()"
     },
     {
@@ -12609,7 +12618,7 @@
       "source_file": "lib/ir/protocols/daikin160.ts",
       "source_location": "L31",
       "id": "protocols_daikin160_valid",
-      "community": 52,
+      "community": 93,
       "norm_label": "valid()"
     },
     {
@@ -12951,7 +12960,7 @@
       "source_file": "lib/ir/protocols/corona_ac.ts",
       "source_location": "L56",
       "id": "protocols_corona_ac_parse",
-      "community": 22,
+      "community": 33,
       "norm_label": "parse()"
     },
     {
@@ -12996,7 +13005,7 @@
       "source_file": "lib/ir/protocols/corona_ac.ts",
       "source_location": "L111",
       "id": "protocols_corona_ac_coronaac",
-      "community": 33,
+      "community": 97,
       "norm_label": "coronaac"
     },
     {
@@ -14678,7 +14687,7 @@
       "file_type": "code",
       "source_file": "components/guide/sources.tsx",
       "source_location": "L1",
-      "community": 13,
+      "community": 2,
       "norm_label": "sources.tsx",
       "id": "components_guide_sources_tsx"
     },
@@ -14687,7 +14696,7 @@
       "file_type": "code",
       "source_file": "components/guide/sources.tsx",
       "source_location": "L1",
-      "community": 13,
+      "community": 2,
       "norm_label": "links",
       "id": "guide_sources_links"
     },
@@ -14696,7 +14705,7 @@
       "file_type": "code",
       "source_file": "components/guide/sources.tsx",
       "source_location": "L34",
-      "community": 13,
+      "community": 2,
       "norm_label": "sources()",
       "id": "guide_sources_sources"
     },
@@ -14705,7 +14714,7 @@
       "file_type": "code",
       "source_file": "components/guide/tune.tsx",
       "source_location": "L1",
-      "community": 2,
+      "community": 28,
       "norm_label": "tune.tsx",
       "id": "components_guide_tune_tsx"
     },
@@ -14750,7 +14759,7 @@
       "file_type": "code",
       "source_file": "components/guide/controls.tsx",
       "source_location": "L106",
-      "community": 13,
+      "community": 2,
       "norm_label": "step()",
       "id": "guide_controls_step"
     },
@@ -14768,7 +14777,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/lg.test.ts",
       "source_location": "L10",
-      "community": 90,
+      "community": 61,
       "norm_label": "load()",
       "id": "protocols_lg_test_load"
     },
@@ -14795,7 +14804,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/tcl112ac.test.ts",
       "source_location": "L9",
-      "community": 76,
+      "community": 58,
       "norm_label": "load()",
       "id": "protocols_tcl112ac_test_load"
     },
@@ -14804,7 +14813,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/mitsubishi_heavy_152.test.ts",
       "source_location": "L9",
-      "community": 135,
+      "community": 58,
       "norm_label": "load()",
       "id": "protocols_mitsubishi_heavy_152_test_load"
     },
@@ -14813,7 +14822,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/midea.test.ts",
       "source_location": "L9",
-      "community": 92,
+      "community": 58,
       "norm_label": "load()",
       "id": "protocols_midea_test_load"
     },
@@ -14858,7 +14867,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/mitsubishi136.test.ts",
       "source_location": "L9",
-      "community": 58,
+      "community": 14,
       "norm_label": "load()",
       "id": "protocols_mitsubishi136_test_load"
     },
@@ -14867,7 +14876,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/sharp_ac.test.ts",
       "source_location": "L9",
-      "community": 12,
+      "community": 58,
       "norm_label": "load()",
       "id": "protocols_sharp_ac_test_load"
     },
@@ -14876,7 +14885,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/toshiba_ac.test.ts",
       "source_location": "L9",
-      "community": 132,
+      "community": 14,
       "norm_label": "load()",
       "id": "protocols_toshiba_ac_test_load"
     },
@@ -14885,7 +14894,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/gree.test.ts",
       "source_location": "L10",
-      "community": 70,
+      "community": 65,
       "norm_label": "load()",
       "id": "protocols_gree_test_load"
     },
@@ -14930,7 +14939,7 @@
       "file_type": "code",
       "source_file": "lib/ir/protocols/teknopoint.test.ts",
       "source_location": "L9",
-      "community": 58,
+      "community": 136,
       "norm_label": "load()",
       "id": "protocols_teknopoint_test_load"
     },
@@ -20452,9 +20461,9 @@
       "source_file": "lib/ir/library.test.ts",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lib_ir_library_test_ts",
-      "target": "lib_ir_formats_ts",
-      "confidence_score": 1.0
+      "target": "lib_ir_formats_ts"
     },
     {
       "relation": "imports_from",
@@ -20496,9 +20505,9 @@
       "source_file": "lib/ir/library.test.ts",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lib_ir_library_test_ts",
-      "target": "ir_formats_controllers",
-      "confidence_score": 1.0
+      "target": "ir_formats_controllers"
     },
     {
       "relation": "imports",
@@ -20936,6 +20945,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "lib/ir/library.test.ts",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "lib_ir_library_test_ts",
+      "target": "ir_library_test_payload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "lib/ir/library.test.ts",
       "source_location": "L67",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -20948,9 +20967,9 @@
       "source_file": "lib/ir/library.test.ts",
       "source_location": "L126",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lib_ir_library_test_ts",
-      "target": "ir_library_test_base",
-      "confidence_score": 1.0
+      "target": "ir_library_test_base"
     },
     {
       "relation": "contains",
@@ -20958,9 +20977,9 @@
       "source_file": "lib/ir/library.test.ts",
       "source_location": "L143",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lib_ir_library_test_ts",
-      "target": "ir_library_test_commands",
-      "confidence_score": 1.0
+      "target": "ir_library_test_commands"
     },
     {
       "relation": "contains",
@@ -20968,9 +20987,9 @@
       "source_file": "lib/ir/library.test.ts",
       "source_location": "L117",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lib_ir_library_test_ts",
-      "target": "ir_library_test_values",
-      "confidence_score": 1.0
+      "target": "ir_library_test_values"
     },
     {
       "relation": "imports",
@@ -65099,5 +65118,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "6e433028ff51f2410b51ebd879675726289c93dd"
+  "built_at_commit": "1afeaba56af24ec80f350c73d48c42db3349fe13"
 }
