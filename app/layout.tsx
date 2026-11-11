@@ -23,6 +23,8 @@ export const metadata: Metadata = {
   title: "Aircon IR coder",
   description:
     "Generate aircon IR codes for SmartIR (Broadlink, UFO-R11, ESPHome and more) and Flipper Zero from the protocol, for dozens of brands.",
+  // Metadata icon URLs do not get basePath applied, so add the same prefix next.config.ts uses.
+  icons: { icon: `${process.env.PAGES_BASE_PATH || ""}/logos/aircon.png` },
 };
 
 export default function RootLayout({

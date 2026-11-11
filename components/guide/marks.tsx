@@ -1,26 +1,33 @@
+import Image from "next/image";
+import broadlink from "@/public/logos/broadlink.jpg";
+import esphome from "@/public/logos/esphome.png";
+import flipper from "@/public/logos/flipper.png";
+import lookin from "@/public/logos/lookin.png";
+import tuya from "@/public/logos/tuya.png";
+
 // Xiaomi, MQTT and Zigbee paths are the Simple Icons marks (CC0).
 // Broadlink, Tuya, ESPHome, LOOKin and Flipper are the brands' own logos, kept in public/logos.
 
 const square = "h-8 w-8";
 
 export function BroadlinkMark() {
-  return <img src="/logos/broadlink.jpg" alt="" className={square} draggable={false} />;
+  return <Image src={broadlink} alt="" className={square} draggable={false} unoptimized />;
 }
 
 export function TuyaMark() {
-  return <img src="/logos/tuya.png" alt="" className={square} draggable={false} />;
+  return <Image src={tuya} alt="" className={square} draggable={false} unoptimized />;
 }
 
 export function EsphomeMark() {
-  return <img src="/logos/esphome.png" alt="" className={square} draggable={false} />;
+  return <Image src={esphome} alt="" className={square} draggable={false} unoptimized />;
 }
 
 export function FlipperMark() {
-  return <img src="/logos/flipper.png" alt="" className={square} draggable={false} />;
+  return <Image src={flipper} alt="" className={square} draggable={false} unoptimized />;
 }
 
 export function LookinMark() {
-  return <img src="/logos/lookin.png" alt="" className={square} draggable={false} />;
+  return <Image src={lookin} alt="" className={square} draggable={false} unoptimized />;
 }
 
 export function XiaomiMark() {
