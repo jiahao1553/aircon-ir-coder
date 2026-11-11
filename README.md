@@ -75,7 +75,7 @@ Xiaomi and LOOKin also accept a Raw encoding. Those Raw bodies are device-specif
 The brand and model picker is no longer shown in the app, but the data is still generated and checked by the test suite. `lib/ir/brands.data.ts` comes from IRremoteESP8266's `SupportedProtocols.md`, keeping only rows with full A/C support:
 
 ```bash
-python3 scripts/gen-brands.py path/to/IRremoteESP8266/SupportedProtocols.md
+npx tsx scripts/gen-brands.ts path/to/IRremoteESP8266/SupportedProtocols.md
 ```
 
 A model tagged with a sub-protocol (for example `(DAIKIN2)`) maps straight to it. A tag naming a remote (for example `(ARRAH2E)`) becomes a variant hint. Untagged models list every protocol from the same family as trials. Rerun the script after adding a protocol file.

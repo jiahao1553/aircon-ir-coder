@@ -1,12 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import { Radio } from "lucide-react";
 import { defaultState, fitState, PROTOCOLS, type ClimateState } from "@/lib/ir";
 import { CONTROLLERS } from "@/lib/ir/formats";
 import { AcUnit } from "./ac-unit";
 import { Bay, Screws } from "./hardware";
-import { Hub, type Output } from "./hub";
+import { FLIPPER, Hub, type Output } from "./hub";
 import { Identify, protocolChoice, trialFromChoice } from "./identify";
 import { Remote } from "./remote";
 import { SmartIrBuilder } from "./smartir-builder";
@@ -25,9 +24,7 @@ export function Guide() {
         <header className="chassis relative flex flex-wrap items-center justify-between gap-5 px-6 py-5 sm:px-8">
           <Screws />
           <div className="flex items-center gap-3">
-            <span className="well flex size-11 items-center justify-center text-[#12533e]">
-              <Radio className="size-5" />
-            </span>
+            <img src="/logo.png" alt="" className="size-11 rounded-xl" />
             <div>
               <h1 className="text-lg font-bold tracking-[0.12em] text-[#1d1b16] uppercase">Aircon IR coder</h1>
               <p className="text-xs text-[#5f5a52]">Make a SmartIR file for your aircon: pick its protocol, set the remote, print the file.</p>
@@ -56,10 +53,12 @@ export function Guide() {
           </Bay>
         </div>
 
-        <Bay title="SmartIR file" aside={`${PROTOCOLS.length} protocols`}>
-          <div className="chassis relative px-6 py-7 sm:px-8">
+        <Bay title="SmartIR file" aside={output.controller === FLIPPER ? "Off for Flipper" : `${PROTOCOLS.length} protocols`}>
+          <div className={`chassis relative px-6 py-7 sm:px-8 ${output.controller === FLIPPER ? "pointer-events-none opacity-40" : ""}`}>
             <Screws />
-            <SmartIrBuilder key={choice} trial={trial} base={state} output={output} />
+            <fieldset disabled={output.controller === FLIPPER} className="m-0 min-w-0 border-0 p-0">
+              <SmartIrBuilder key={choice} trial={trial} base={state} output={output} />
+            </fieldset>
           </div>
         </Bay>
       </div>

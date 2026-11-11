@@ -7,7 +7,7 @@ import { CONTROLLERS } from "@/lib/ir/formats";
 import { buildSmartIr, commandCount, type SmartIrSpec } from "@/lib/ir/smartir";
 import { download, slug } from "./controls";
 import { Key, SevenSeg } from "./hardware";
-import type { Output } from "./hub";
+import { FLIPPER, type Output } from "./hub";
 import type { Trial } from "./identify";
 import { FanPicks, ModePicks, VanePicks } from "./picks";
 
@@ -29,6 +29,7 @@ export function SmartIrBuilder({ trial, base, output }: { trial: Trial; base: Cl
   const [step, setStep] = useState<number>(1);
 
   const swingOn = horizontal ? swingsH.some((s) => c.swingH.includes(s)) : swingsV.some((s) => c.swingV.includes(s));
+  const flipper = output.controller === FLIPPER;
   const ctrl = CONTROLLERS.find((x) => x.id === output.controller) ?? CONTROLLERS[0];
   const opt = ctrl.options[Math.min(output.option, ctrl.options.length - 1)];
   const spec: SmartIrSpec = {
@@ -159,11 +160,11 @@ export function SmartIrBuilder({ trial, base, output }: { trial: Trial; base: Cl
           </p>
         </div>
         <div className="flex flex-col items-end gap-1.5">
-          <Key tone="green" className="h-14 flex-row gap-2.5 px-6 text-sm font-bold tracking-wide" disabled={missing.length > 0} onClick={save} title={missing.length ? `Needs ${missing.join(", ")}` : `${ctrl.label} · ${opt.encoding}`}>
+          <Key tone="green" className="h-14 flex-row gap-2.5 px-6 text-sm font-bold tracking-wide" disabled={flipper || missing.length > 0} onClick={save} title={flipper ? "Flipper Zero uses a .ir file" : missing.length ? `Needs ${missing.join(", ")}` : `${ctrl.label} · ${opt.encoding}`}>
             <Printer className="size-5" />
             Print SmartIR file
           </Key>
-          <span className="engraved text-[9px]">{missing.length ? `Needs ${missing.join(", ")}` : `${ctrl.label} · ${opt.encoding}`}</span>
+          <span className="engraved text-[9px]">{flipper ? "Flipper Zero uses a .ir file" : missing.length ? `Needs ${missing.join(", ")}` : `${ctrl.label} · ${opt.encoding}`}</span>
         </div>
       </div>
     </div>
