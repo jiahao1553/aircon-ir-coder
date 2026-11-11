@@ -30,8 +30,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/app/layout.tsx": {
-    "mtime": 1794301578.3310308,
-    "ast_hash": "74ff010545e4bc17baa97b30918df7ff",
+    "mtime": 1794411404.6933196,
+    "ast_hash": "bff7e30fb537d38695dc71f9140f3bca",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/app/page.tsx": {
@@ -45,8 +45,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/guide.tsx": {
-    "mtime": 1794409067.3445923,
-    "ast_hash": "b3393631c525dfc66a59143c47d67033",
+    "mtime": 1794412480.8795185,
+    "ast_hash": "2679ef64b5406339509a9dd7cb57a00a",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/controls.tsx": {
@@ -412,31 +412,6 @@
   "/Users/jiahao.tan/Repos/aircon-ir-coder/.github/workflows/pages.yml": {
     "mtime": 1794149591.8907385,
     "ast_hash": "ebbc6f8bc3677bc16877fb26ec641d2a",
-    "semantic_hash": ""
-  },
-  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/file.svg": {
-    "mtime": 1793931875.0,
-    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
-    "semantic_hash": ""
-  },
-  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/vercel.svg": {
-    "mtime": 1793931875.0,
-    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
-    "semantic_hash": ""
-  },
-  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/next.svg": {
-    "mtime": 1793931875.0,
-    "ast_hash": "8e061864f388b47f33a1c3780831193e",
-    "semantic_hash": ""
-  },
-  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/globe.svg": {
-    "mtime": 1793931875.0,
-    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
-    "semantic_hash": ""
-  },
-  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/window.svg": {
-    "mtime": 1793931875.0,
-    "ast_hash": "a2760511c65806022ad20adf74370ff3",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/lib/ir/protocols/electra_ac.ts": {
@@ -1060,8 +1035,8 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/hub.tsx": {
-    "mtime": 1794409228.930712,
-    "ast_hash": "3bf19f965d0edc310fa4f943f3fa528e",
+    "mtime": 1794409659.4638255,
+    "ast_hash": "fe11dfb887273d8c8835c40bc1565807",
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/remote.tsx": {
@@ -1130,8 +1105,38 @@
     "semantic_hash": ""
   },
   "/Users/jiahao.tan/Repos/aircon-ir-coder/components/guide/marks.tsx": {
-    "mtime": 1794409046.0599957,
-    "ast_hash": "052e5cee881d87c8e0d4ad9fb392d217",
+    "mtime": 1794412489.0661993,
+    "ast_hash": "221368bd72338fd29a6203cdd0418fb9",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/lookin.png": {
+    "mtime": 1794410031.3869786,
+    "ast_hash": "f05e5f5cc20336570771eb201eb744da",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/tuya.png": {
+    "mtime": 1794409645.2776885,
+    "ast_hash": "de576f5a8d1391d9ee7c211bc0779e8f",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/flipper.png": {
+    "mtime": 1794409645.200449,
+    "ast_hash": "a2434883338c748ad0fe503b6ef47db8",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/broadlink.jpg": {
+    "mtime": 1794409645.2395582,
+    "ast_hash": "b0418b0f4f08c14aef26f95c95130736",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/esphome.png": {
+    "mtime": 1794409645.3167493,
+    "ast_hash": "616c919aa200312aeaad2f80b6803791",
+    "semantic_hash": ""
+  },
+  "/Users/jiahao.tan/Repos/aircon-ir-coder/public/logos/aircon.png": {
+    "mtime": 1794409827.3998497,
+    "ast_hash": "718fde82aa6a7dc6c9612201256f9a01",
     "semantic_hash": ""
   }
 }

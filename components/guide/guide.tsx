@@ -1,14 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
-import logo from "@/public/logos/aircon.png";
 import { defaultState, fitState, PROTOCOLS, type ClimateState } from "@/lib/ir";
 import { CONTROLLERS } from "@/lib/ir/formats";
 import { AcUnit } from "./ac-unit";
 import { Bay, Screws } from "./hardware";
 import { FLIPPER, Hub, type Output } from "./hub";
 import { Identify, protocolChoice, trialFromChoice } from "./identify";
+import { AirconMark } from "./marks";
 import { Remote } from "./remote";
 import { SmartIrBuilder } from "./smartir-builder";
 
@@ -26,7 +25,7 @@ export function Guide() {
         <header className="chassis relative flex flex-wrap items-center justify-between gap-5 px-6 py-5 sm:px-8">
           <Screws />
           <div className="flex items-center gap-3">
-            <Image src={logo} alt="" className="size-11 rounded-xl" unoptimized />
+            <AirconMark className="size-11 overflow-hidden rounded-xl" />
             <div>
               <h1 className="text-lg font-bold tracking-[0.12em] text-[#1d1b16] uppercase">Aircon IR coder</h1>
               <p className="text-xs text-[#5f5a52]">Make a SmartIR file for your aircon: pick its protocol, set the remote, print the file.</p>
