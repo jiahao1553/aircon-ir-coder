@@ -215,19 +215,19 @@ export function VanePicks({
           </div>
         ) : null}
       </div>
-      <div className="flex items-center gap-2">
+      <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:gap-2">
         <div className="flex gap-1.5">
           {mark("auto", "Auto", <span className="font-mono text-sm leading-none font-bold">A</span>)}
           {mark("swing", "Swing", horizontal ? <ArrowLeftRight className="size-4" /> : <ArrowUpDown className="size-4" />)}
         </div>
-        <svg viewBox={horizontal ? "0 0 200 96" : "0 -8 136 176"} className={`${horizontal ? "h-24" : "h-40"} w-full min-w-0`} role="group" aria-label={title}>
+        <svg viewBox={horizontal ? "0 0 200 96" : "0 -8 136 176"} className={`w-full min-w-0 ${horizontal ? "aspect-[200/96] lg:aspect-auto lg:h-24" : "aspect-[136/176] lg:aspect-auto lg:h-40"}`} role="group" aria-label={title}>
           {rays.map((ray) => {
             const allowed = enabled.includes(ray.id);
             const on = allowed && selected.includes(ray.id);
             const degs = "twin" in ray && ray.twin ? [ray.deg, -ray.deg] : [ray.deg];
             const reach = horizontal ? 50 : R1;
             const tip = rayEnds(ray.deg, reach + (horizontal ? 16 : 12), horizontal);
-            const colour = on ? "#12533e" : allowed ? "#6f6a62" : "#d5d0c6";
+            const colour = on ? "#12533e" : allowed ? "#c4beb4" : "#ddd7cd";
             return (
               <g
                 key={ray.id}

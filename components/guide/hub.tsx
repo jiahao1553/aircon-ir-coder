@@ -78,9 +78,9 @@ export function Hub({
               type="button"
               aria-pressed={on}
               onClick={() => onOutput({ controller: x.id, option: 0 })}
-              className={`flex items-center gap-1.5 rounded-lg px-2 py-1.5 text-left transition-shadow ${
+              className={`flex items-center gap-1.5 rounded-lg px-2 py-1.5 text-left transition-[transform,box-shadow] ${
                 on
-                  ? "bg-gradient-to-b from-[#26302c] to-[#141a17] text-white shadow-[0_0_0_2px_#00b0ff,0_0_14px_#00b0ff55]"
+                  ? "translate-y-0.5 bg-gradient-to-b from-[#e9e5dc] to-[#dcd5c9] text-[#12533e] shadow-[inset_0_2px_4px_rgb(0_0_0/0.18),0_1px_0_#bdb5a8,0_1px_2px_rgb(0_0_0/0.25)]"
                   : "chassis text-[#3a3730]"
               }`}
             >

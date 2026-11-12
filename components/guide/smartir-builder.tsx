@@ -149,11 +149,11 @@ export function SmartIrBuilder({ trial, base, output }: { trial: Trial; base: Cl
       </div>
 
       <div className="well flex flex-wrap items-center justify-between gap-4 p-4">
-        <div className="flex items-center gap-4">
-          <div className="lcd px-3 py-2">
+        <div className="flex min-w-0 items-center gap-4">
+          <div className="lcd shrink-0 px-3 py-2">
             <SevenSeg text={String(count).padStart(4, " ")} className="text-3xl" />
           </div>
-          <p className="max-w-sm text-xs leading-relaxed text-[#5f5a52]">
+          <p className="min-w-0 max-w-sm text-xs leading-relaxed break-words text-[#5f5a52]">
             Commands{trial.protocol.powerToggle ? ", plus an identical on and off toggle" : ", plus off"}. The remote fills in anything
             these controls don&apos;t set. Save as <code className="font-mono">custom_codes/climate/&lt;number&gt;.json</code> and set{" "}
             <code className="font-mono">device_code</code> to that number.
